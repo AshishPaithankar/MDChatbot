@@ -1,0 +1,4045 @@
+{
+  "guides": [
+    {
+      "title": "Collection Settings",
+      "description": "This guide covers all major collection-related settings within the Mobile Dairy App. Collection settings help configure how milk is collected from farmers and include the following:\n\n1. Milk Collection Type based on FAT, SNF, CLR, and other parameters.\n2. Type of milk collected—Cow, Buffalo, or Both.\n3. Collection Inputs—whether entries are made Manually, Automatically, or through a Weighing Scale.\n4. Collection Shifts—configured for Morning, Evening, or both.\n5. Offline Collection Settings—option to allow data entry without internet.\n6. Shift Timings—customizable start and end times for Morning and Evening shifts.\n7. Collection Print Settings—customizable receipts in 7 regional languages with required fields and formats.",
+      "sections": [
+        {
+          "title": "Collection Type Setting",
+          "description": "While collecting milk, the rate is determined based on FAT Content, SNF Content, and Auto CLR. These settings help record these milk parameters, which are then used to calculate the rate with the help of the rate chart saved.\n\nFAT refers to milk fat, also known as butterfat, which is the natural fat found in milk. It is measured as a percentage of the milk's weight, such as '3.5% fat' meaning that 3.5% of the milk’s weight is fat. This percentage affects the milk's texture and calorie content.\n\nSNF stands for Solids Not Fat, which includes all the non-fat, non-water components of milk such as proteins, carbohydrates, minerals, and vitamins. For example, '7.5%' SNF means that 7.5% of the milk's content is made up of solids other than fat.\n\nCLR stands for Corrected Lactometer Reading, which measures the quality and density of milk. This value helps assess if water has been added to the milk.\n\nThe Collection Type settings allow you to define the method by which milk data is collected and recorded in the Mobile Dairy App.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon on top right corner",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the collection type.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Settings section. Tap on Collection Type and choose from the available options:",
+              "description": [
+                "FAT Only – Collect milk based on FAT content only.",
+                "CLR Only – Collect milk based on CLR (Corrected Lactometer Reading) only.",
+                "FAT + SNF – Collect milk based on both FAT and SNF (Solids-Not-Fat).",
+                "FAT + CLR – Collect milk based on both FAT and CLR.",
+                "FAT + CLR + Auto SNF – Milk is collected based on all two parameters: FAT and CLR then Auto SNF is calculated and its value is displayed",
+                "Liter Only – Collect milk based solely on volume (liters)."
+              ],
+              "imageURL": "https://drive.google.com/file/d/1Agzko9QP6IKNc68uGiJdq4oDbgR6hq1g/view?usp=sharing, https://drive.google.com/file/d/1a3U1DuZll0jYUP4q69VIXDpYu8R-x7NS/view?usp=sharing"
+            },
+            {
+              "step": 6,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.Once selected, your changes will be applied to the center's collection settings",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Collection Milk Type Settings",
+          "description": "Milk type settings allow you to specify whether the collected milk is from cows, buffaloes, or both.\n\nCow milk and buffalo milk differ in several key aspects...",
+          "youtube_link": "https://youtu.be/KQG_bR1I154?si=qfwHM38O3-BcLHpx",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the milk type.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Settings section. Tap on Milk Type and choose from the available options:",
+              "description": [
+                "Cow: Select this if you are collecting cow milk only.",
+                "Buffalo: Select this if you are collecting buffalo milk only.",
+                "Both: Select this if you are collecting both cow and buffalo milk."
+              ],
+              "imageURL": "https://drive.google.com/file/d/1K0Q3sp0aGyiJznW0m_hdqGdJ7oLNCmNY/view?usp=sharing, https://drive.google.com/file/d/1-pnvISUJJKEyR4TvX5LbZ3EiKsnBP9KD/view?usp=sharing"
+            },
+            {
+              "step": 6,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Collection Input Settings",
+          "description": "The Collection Input settings allow you to define the method by which milk data is collected and recorded in the Mobile Dairy App...",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the collection input method.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Collection Input and choose from the available options:",
+              "description": [
+                "Manual + Automatic:  Combines both manual data entry and automatic data is collected with the help external MD Box device which is connected to Mobile / Computer via Bluetooth and is connected to Weighing Scale or Milk Analyzer through wired connections.",
+                "Weighing Scale + Milk Analyzer Automatic: Utilizes both the weighing scale and milk analyzer for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected to Weighing Scale and Milk Analyzer through wired connections",
+                "Only Milk Analyzer Automatic:  Utilizes only the milk analyzer for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected Milk Analyzer through wired connections. Weighing Scale entry can be entered manually.",
+                "Only Milk Weighing Scale Automatic: Utilizes only the weighing scale for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected Weighing Device through wired connections. Milk analyzer entry can be entered manually."
+              ],
+              "imageURL": "https://drive.google.com/file/d/18JDQjv5A1xwyOWCiiY_OcYlRClDYpRr6/view?usp=sharing, https://drive.google.com/file/d/1xsRB-l5qDrPyTCd-1reNTG0weTG-cX7p/view?usp=sharing"
+            },
+            {
+              "step": 7,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.Once you've selected the desired option, the changes will be applied to the center's collection input settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Show Previous Collection Settings",
+          "description": "The “Show Previous Collection” setting enables you to view a farmer’s past milk collection data while recording new entries...",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the previous collection display settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Show Previous Collection and choose from the available options:",
+              "description": [
+                "Yesterday Both Shifts:Displays data from both the morning and evening shifts of the previous day at the bottom while recording the current dated collections.",
+                "Last Current Shift: Shows data from the most recent shift (either morning or evening) prior to the current collection.",
+                "Last Two Shifts Average: Shows data from the most recent shift (either morning or evening) prior to the current collection at the bottom while recording the current collection.",
+                "Last Four Shifts Average: Calculates and displays the average data from the last two consecutive shifts at the bottom while recording the current dated collections.",
+                "Last Two Current Shifts Average:Calculates and displays the average data from the last four consecutive shifts  at the bottom while recording the current dated collections"
+              ],
+              "imageURL": "https://drive.google.com/file/d/16ijiBmHfnDvdgRbFQPCY5i7iWmsmRKon/view?usp=sharing, https://drive.google.com/file/d/1DjjeGNsZFYU7Wb1stgUE57g1ya1zvy_H/view?usp=sharing"
+            },
+            {
+              "step": 7,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Offline Collection Setting",
+          "description": "",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the offline collection setting.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Setting section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Offline Collection and choose from the available options:",
+              "description": [
+                "On: Enables milk collection data entry without an internet connection. Data will sync automatically when connectivity is restored.",
+                "Off: Disables offline data entry, requiring an active internet connection for milk collection recording."
+              ],
+              "imageURL": "https://drive.google.com/file/d/1UUKsyAA709ebF69hvs3_yeCnahTSryBm/view?usp=sharing, https://drive.google.com/file/d/1YACP8cVg1lYoU5MA3m474Z4JZ43pDWDg/view?usp=sharing, https://drive.google.com/file/d/1IU9sCk1asyO2qpoJGsC6Bp0iY5vht1mz/view?usp=sharing, https://drive.google.com/file/d/1_7O89FyvnlxkdTnQGSC-ZYt0JZWXkLdr/view?usp=sharing"
+            },
+            {
+              "step": 7,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.By enabling the Offline Collection feature, you ensure seamless data recording during milk collection, even in remote locations with connectivity challenges.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Collection Shift Settings",
+          "description": "The Collection Shift setting determines the specific times during which the dairy center collects milk from farmers. By selecting a particular shift, you ensure that milk collection entries are recorded only for the designated time periods.\n\nMilk Center users must select the appropriate milk collection shift:\n- Morning Shift: Milk is collected only in the morning.\n- Evening Shift: Milk is collected only in the evening.\n- Morning + Evening: Milk is collected in both shifts, and the user must manually select Morning or Evening during collection.\n- Auto (Morning + Evening): The shift automatically changes to Evening after 1:00 PM.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the collection shift setting.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Shift Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose the desired collection shift option:",
+              "description": [
+                "Morning Shift: Collect milk only in the morning.",
+                "Evening Shift: Collect milk only in the evening.",
+                "Morning + Evening: Collect milk in both shifts.",
+                "Auto (Morning + Evening): Automatically switch to Evening shift after 1:00 PM."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Morning / Evening Shift Timings",
+          "description": "The Morning/Evening Shift Timings setting defines the permissible time frames during which milk collection can occur for each shift. By specifying these timings, you ensure that milk collections are recorded only within the designated periods, helping maintain accurate and timely data entry.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the shift timings.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection setting sections.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Morning/Evening Shift and set the timings",
+              "description": [
+                "Set the Start Time: Tap on the Start Time field and select the desired time when the shift begins.",
+                "Set the End Time: Tap on the End Time field and select the desired time when the shift ends."
+              ],
+              "imageURL": "https://drive.google.com/file/d/1NjT4_Aw2tPGFu1zKMggXR7_7qWwB4cnv/view?usp=sharing, https://drive.google.com/file/d/1cvh5Cj5bxQTRvfY8OIynh0AzAAB-pVdd/view?usp=sharing"
+            },
+            {
+              "step": 7,
+              "title": "Save the changes by tapping on the Save button located at the bottom right corner.By configuring the “Morning/Evening Shift Timings”, you ensure that milk collection entries are restricted to the specified time frames, maintaining accurate and organized records for each shift.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Collection Print Settings",
+          "description": "The Collection Print Settings allow you to customize the details and format of the receipts generated after milk collection. This ensures that the printed receipts match your preferences and include the specific information you want to share with farmers.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Settings icon.",
+              "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Information.",
+              "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center where you want to update the print settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Collection Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Collection Print Settings: Select Receipt Language , the available languages are Hindi,Marathi,Gujarati,Tamil, Telugu, Punjabi, English",
+              "imageURL": "https://drive.google.com/file/d/18B4yNUusNDd8AZu9tm4NoBtzeTsuWDkv/view?usp=sharing, https://drive.google.com/file/d/1uZ0M4Ny2Ef473Za7hJEc10sE8pUGQHwf/view?usp=sharing"
+            },
+            {
+              "step": 7,
+              "title": "Select Parameters to Print on Receipt",
+              "description": [
+                "Specify which parameters should appear on the receipt. Available options include: FAT, SNF, CLR, Litre, Rate, Amount, Total Litre, Total Amount, Centre Logo, Number in Language.",
+                "Input Note: Add any additional notes or messages that should be printed on the receipt.",
+                "Select Print Format: Choose from the available print formats to determine the layout and design of the receipt."
+              ],
+              "imageURL": "https://drive.google.com/file/d/1AYGdc1OqTgg-3TWUJmAh8ADzjWUm6cbm/view?usp=sharing"
+            },
+            {
+              "step": 8,
+              "title": "Save the Changes: Tap on the Save button located at the bottom right corner to apply your configurations.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SMS Settings",
+      "description": "The SMS Settings in the Mobile Dairy app allow you to configure how you communicate with farmers via SMS. These settings are crucial for managing notifications about milk collection, sales, and other important updates.\n\nHere's a summary of the available SMS settings:\n\n1. SMS Type Setting: Choose the method for sending SMS messages. Options include the Customer App (free), SIM card, Server SMS Pack, or a combined option.\n2. Farmer App Link in SMS: Option to include a download link for the MD Customer App in every SMS to encourage farmers to use in-app notifications.\n3. Send SMS For Setting: Select which events should trigger SMS updates to farmers, such as milk collection, feed purchases, or loan activities.\n4. Center Name in SMS: Customize the sender name displayed in SMS messages so that farmers can easily recognize messages from your dairy center.\n\nRemember to save your changes after adjusting any of these settings.",
+      "sections": [
+        {
+          "title": "SMS Type Setting",
+          "description": "The SMS Type Setting allows you to choose how notifications or SMS messages are sent to farmers. These messages inform them about key dairy-related activities such as milk collection, milk sales, and other updates.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on SMS Type Setting to view available options.",
+              "description": [
+                "6.1. Customer App: Sends notification updates through the MD Customer App. This method is free of cost.",
+                "6.2. SIM Card: Send SMS updates as simple text messages using your device’s SIM SMS pack. Messages will be deducted from your SIM balance(100 sms per day).",
+                "6.3. Server SMS Pack: Allows you to send SMS through Mobile Dairy's server-based SMS packs. Useful when more than 100 SMS are to be sent daily.",
+                "6.4. SIM + Server + Customer App (Combined Option): A hybrid setup that ensures maximum message delivery:\n - First, it tries SIM SMS.\n - If SIM fails, it uses Server SMS.\n - Farmers with the Customer App always get free notifications."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selected SMS method.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Send SMS For Setting",
+          "description": "The Send SMS For setting allows you to manage which events will trigger SMS or notification updates to farmers. These updates help keep farmers informed about various transactions and activities related to your dairy center.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Send SMS For to view available options.",
+              "description": [
+                "Collection: Sends an update when milk is collected from a farmer.",
+                "Food: Sends an update when a farmer buys cattle feed from the center.",
+                "Invoice Payment: Sends an update when a payment is made (by or to the farmer).",
+                "Loan: Sends an update when a loan is issued to a farmer.",
+                "Loan Installment: Sends an update when a loan installment is paid.",
+                "Milk Sale: Sends an update when milk is sold by the dairy center.",
+                "Milk Receive: Sends an update when milk is received at the center.",
+                "Milk Dispatch: Sends an update when milk is dispatched from the center."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": [
+                "Tap the Save button located at the bottom-right corner to apply your selected events.",
+                "Note: You can select multiple events depending on your communication needs. Each event SMS will be counted as a separate message, consuming SMS credits from your SIM or Server SMS Pack. Farmers using the Customer App will continue to receive free notifications, if registered..."
+              ],
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Farmer App Link in SMS",
+          "description": "The Farmer App Link in SMS setting allows you to automatically include a download link for the MD Customer App in every SMS sent to farmers. This encourages them to install the app so you can eventually switch to the Customer App notification system, which is free, reducing reliance on paid SMS via SIM or Server.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Farmer App Link in SMS' to view available options.",
+              "description": [
+                "On: A download link for the MD Customer App will be included in every SMS sent to farmers.",
+                "Off: Regular SMS will be sent without including the download link for the app."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": [
+                "Tap the Save button located at the bottom-right corner to apply your selection.",
+                "Note: Setting this option to On helps encourage farmers to download the MD Customer App, enabling you to send free in-app notifications.",
+                "If you prefer to continue with traditional SMS only, select Off.",
+                "For cost-effective communication, it is recommended to keep this setting On and choose Customer App as your primary SMS Type."
+              ],
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Total Collection in SMS",
+          "description": "The Total Collection in SMS setting allows you to include the total milk collected (in liters) and the total amount for the current invoice period in the SMS sent to farmers. This gives them a complete summary of their collection performance during the billing cycle.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Total Collection in SMS' to view available options.",
+              "description": [
+                "On: The SMS will include the total milk collection (in liters) and the total payment amount for the invoice period.",
+                "Off: Regular SMS will be sent without including total liters or total amount."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selection.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Total Collection in SMS",
+          "description": "The Total Collection in SMS setting allows you to include the total milk collected (in liters) and the total amount for the current invoice period in the SMS sent to farmers. This gives them a complete summary of their collection performance during the billing cycle.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Total Collection in SMS' to view available options.",
+              "description": [
+                "On: The SMS will include the total milk collection (in liters) and the total payment amount for the invoice period.",
+                "Off: Regular SMS will be sent without including total liters or total amount."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selection.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Center Name in SMS",
+          "description": "This setting allows you to customize the sender name displayed in SMS messages sent to farmers. Personalizing the sender name helps farmers easily recognize messages from your dairy center. If left blank, the default sender name 'Mobile Dairy' will be used.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Center Name in SMS' to open the text editor.",
+              "description": [
+                "You will see a text box where you can type your desired sender name."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your updated sender name.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Note",
+              "description": "The sender name can be up to 15 characters long and should be English language only.\n\nAllowed characters:\n- Uppercase letters (A–Z)\n- Lowercase letters (a–z)\n- Numbers (0–9)\n- Spaces (no special characters or symbols)",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Invoice Settings",
+      "description": "The Invoice Settings in the Mobile Dairy app allow you to configure how milk payment invoices are generated and printed for farmers. These settings help you manage payment periods, customize invoice formats, and control what information appears on printed documents.\n\nHere's a summary of the available Invoice Settings:\n\n1. Payment Period Setting: Define how often farmers receive their milk payment invoices, either based on fixed date ranges or weekly days.\n2. Payment Register Print Setting: Customize the layout and content of the printed Payment Register used for milk payment records.\n3. Invoice Print Setting: Fully customize the format, layout, and content of printed invoices generated from your dairy center.",
+      "sections": [
+        {
+          "title": "Payment Period Setting",
+          "description": "The Payment Period setting allows you to define how often farmers receive their milk payment invoices. You can choose from fixed date ranges or weekly days depending on your collection and payment schedule.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Payment Period to view available options.",
+              "description": "You will see the following options and once selected it will be applied to all customers. We cannot select this farmer wise.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Date-based options",
+              "description": "01–10, 11–20, 21–ME (Month End), 01–15, 16–ME, 01–ME, 01–05, 06–10, 11–15, 16–20, 21–25, 26–ME, 06–15, 15–25, 26–05",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Weekday-based options",
+              "description": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selected payment period.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Payment Register Print Setting",
+          "description": "This setting allows you to customize the layout and content of the printed Payment Register used for milk payment records. You can include or exclude specific columns—like signatures or zero-value payments—and choose from two available print formats to best match your dairy’s reporting style.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Payment Register Print Setting' to view available options.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Available Customization Options",
+              "description": "Signature Column: Turn this ON to include a signature field, so farmers or representatives can sign next to their payment as a confirmation. Turn it OFF to exclude the signature field. Zero Amount Column: If ON, all entries including those with ₹0 payments will be printed. If OFF, only entries with non-zero payment amounts will be shown. The column whose all values are zero, won’t be shown. Print Format for Payment Register: Choose your preferred layout or format for how the register should appear when printed.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your updated settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Invoice Print Setting",
+          "description": "This setting allows you to fully customize the format, layout, and content of printed invoices generated from your dairy center. You can choose the language, columns, layout style, and other display preferences to suit your printing needs—whether for thermal or laser printers.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Invoice Print Setting' to view available options.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Available Customization Options",
+              "description": "Language: Choose the language for the printed invoice. Per Paper Layout: Horizontal Two Bill, Vertical Two Bills, One Bill. FAT, SNF, CLR Columns: Enable or disable columns for FAT, SNF, and CLR values. Feed Details: Turn ON or OFF. Average in Invoice: Turn ON or OFF to show average values. Plant Name: Turn ON or OFF to show plant name. Separate Cow/Buffalo: Turn ON or OFF to display data separately. Number in Language: Display numbers in a regional script/language. Rate Column: Turn ON or OFF to include rate information. Printer Type: Choose either Laser or Thermal. Print Format: Format-1, Format-2, Format-3. Preview: View a sample print layout before finalizing.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rate Chart Settings",
+      "description": "The Rate Chart Settings in the Mobile Dairy app allow you to configure how milk rates are calculated and applied during collection. These settings include enabling or disabling the rate chart, applying shift-wise rates, importing an Excel rate chart, and defining rates per KG. By customizing these settings, you can ensure accurate and efficient milk collection processes tailored to your dairy center's needs.",
+      "sections": [
+        {
+          "title": "Rate Chart On/Off ",
+          "description": "This setting allows you to choose whether to enable or disable the use of a rate chart for milk collection.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Rate Chart Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Rate Chart' to view available options:",
+              "description": [
+                "On – Enables the use of the rate chart.",
+                "Off – Disables the rate chart temporarily.",
+                "",
+                "Note: Set it to Off if you want to temporarily stop applying the rate chart."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Shift Wise Rate Chart Setting",
+          "description": "This setting allows you to apply incentives or penalties based on the milk collection shift—morning or evening. You can add or subtract a fixed rate for each shift, enabling you to reward consistency or adjust for operational costs.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Rate Chart Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Shift Wise Rate' to view available options:",
+              "description": [
+                "Shift Rate Adjustments:",
+                "",
+                "Morning Shift Adjustment:",
+                "Enter the bonus or penalty (e.g., +0.5 for bonus or -0.3 for deduction).",
+                "",
+                "Evening Shift Adjustment:",
+                "Enter the bonus or penalty (e.g., +0.2 or -0.1).",
+                "",
+                "Apply Conditional Bonus for Evening Shift:",
+                "[✓]Tick this option if the evening bonus should only apply when milk is also collected in the morning from the same farmer on the same day.",
+                "",
+                "Note: The values entered will be added to or subtracted from the existing rate based on the shift and your configuration."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Excel Rate Chart",
+          "description": "By updating the Excel rate chart, you can import a preconfigured rate chart into the Mobile Dairy app. Based on the imported Excel sheet, the app will automatically apply the corresponding rate chart settings. You can watch the below given video to understand how to do this.",
+          "youtube_link": "https://www.youtube.com/shorts/sS_IMKcv6kA",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Prepare Your Excel Rate Chart",
+              "description": "Ensure your Excel sheet is correctly formatted for import. The Mobile Dairy app will use the data in the sheet to configure the rate chart.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Rate Chart Section",
+              "description": "Ensure your Excel sheet is correctly formatted for import. The Mobile Dairy app will use the data in the sheet to configure the rate chart. INSTRUCT TO WATCH VIDEO for further steps on Mobile Dairy's YouTube Channel",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Rate Per KG Configuration",
+          "description": "In the Per KG rate chart format, milk rates are calculated based on the weight (in KG) rather than volume (in liters). You need to define the rate per KG which will be used during milk collection.",
+          "youtube_link": "https://www.youtube.com/shorts/sS_IMKcv6kA",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Rate Chart section from the main menu.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select 'Rate Per KG' as the rate chart format.",
+              "description": "You will be prompted to enter the rate per kilogram of milk. This rate will be used to calculate the amount during milk collection. Refer to the video for the exact steps on Mobile Dairy's YouTube Channel.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Save your settings.",
+              "description": "Once you've entered the desired rate per KG, tap on Save to apply the settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Increase Per FAT/SNF Points",
+          "description": "In the Mobile Dairy application, this rate chart format allows you to manually define how much the price should increase for every step of FAT and SNF. It offers flexible control over pricing based on milk quality parameters. This method is ideal when you want precise incremental adjustments for higher FAT/SNF values.",
+          "youtube_link": "https://www.youtube.com/shorts/u6V73LzVo7w",
+          "steps": [
+            {
+                  "step": 1,
+                  "title": "Open the Mobile Dairy app on your device.",
+                  "imageURL": ""
+                },
+                {
+                  "step": 2,
+                  "title": "Navigate to the Rate Chart section.",
+                  "imageURL": ""
+                },
+                {
+                  "step": 3,
+                  "title": "Select 'Increase Per FAT/SNF Points' format.",
+                  "description": "You will be able to enter base rate, and define the amount to be added per FAT and per SNF point.Please follow the video instructions for correct configuration on Mobile Dairy's YouTube Channel.",
+                  "imageURL": ""
+                },
+                {
+                  "step": 4,
+                  "title": "Save your configuration.",
+                  "description": "After filling in the values, tap Save to apply your rate chart settings.",
+                  "imageURL": ""
+                }
+          ]
+        },
+        {
+          "title": "Fixed Rate, Rate Chart",
+          "description": "In the Mobile Dairy application, the Fixed Rate chart format allows you to set a constant rate for milk, regardless of its FAT or SNF values. This is useful when you want to pay the same amount for every liter or kilogram of milk, making the process simple and consistent.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Rate Chart section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select 'Fixed Rate' as your format.",
+              "description": "You’ll be prompted to enter a fixed rate per liter. This rate will be applied to all milk collections, regardless of quality.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap Save to confirm your settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Total Solids Rate Chart",
+          "description": "In the Mobile Dairy application, the Total Solids rate chart format calculates milk payment based on the combined value of FAT and SNF content, but you have to enter FAT and SNF values separately. This method provides a more accurate pricing model as it reflects the total nutritional solids present in the milk.",
+          "youtube_link": "https://youtube.com/shorts/HFHl-7AZRvY",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Rate Chart section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Choose 'Total Solids' as the rate chart format.",
+              "description": "Here, you will be asked to enter a rate that will be applied to the sum of FAT and SNF content in the milk.Watch the video below to understand the exact configuration process on Mobile Dairy's YouTube Channel.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap Save to apply the rate chart.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Customer App Display Settings",
+      "description": "The Customer App Display Settings in the Mobile Dairy app allow you to control what information is visible to farmers in the Customer (Farmer) App. These settings help enhance transparency and user experience by allowing you to show or hide specific details such as interest rates on advances/loans, rate charts, milk collection visibility, and more.",
+      "sections": [
+        {
+          "title": "Show Advance/Loan Interest Rate in Farmer App Setting",
+          "description": "This setting allows you to control whether farmers can view the interest rate on any advance or loan they have taken, directly within the Customer (Farmer) App. Enabling this option promotes transparency by letting farmers see the exact interest rates applied to their advances or loans. Disabling it will keep this information hidden from the app, which might be preferred for privacy or simplicity.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Navigate to the Customer App Settings or Farmer App Settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Find the setting 'Show Advance/Loan Interest Rate'.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Toggle the switch ON or OFF based on your preference.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Save the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Show Rate Chart Setting",
+          "description": "This setting allows you to control whether the rate chart used for calculating each farmer’s milk collection is visible in the Customer (Farmer) App. Enabling this option helps farmers see the applicable rates clearly, fostering transparency in billing. If turned off, the rate chart will be hidden from the Customer App, which might be preferred for internal control or simplicity.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Settings menu.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Customer App Settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Locate 'Show Rate Chart' option.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Turn ON to enable rate chart visibility or OFF to hide it.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Save your settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Show Collection After Invoice Save in Farmer/Customer App",
+          "description": "This setting determines when the milk collection details become visible in the Customer (Farmer) App. If the setting is turned ON, farmers will only be able to see their milk collection data after the invoice has been saved. This ensures that only finalized and confirmed records are displayed. On the other hand, if the setting is turned OFF, the collection details will be shown immediately after entry, allowing farmers to view their data in real-time without waiting for invoice generation.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Show Collection After Invoice Save'.",
+              "description": [
+                "On: Collection will appear only after invoice is saved.",
+                "Off: Collection will be visible immediately after collection is done."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the setting.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Show Collection After Shift Finish Setting",
+          "description": "This setting allows you to control when farmers can view their milk collection data in the Customer App. If it is turned ON, the collection will become visible only after the respective shift (such as morning or evening) is completed. If it is turned OFF, the collection will be visible immediately after it is saved in the app.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to Settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select Customer App Settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Find 'Show Collection After Shift Finish'.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Enable the toggle if you want to show collection after the shift ends.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Save your changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Hide Collection Rate Setting",
+          "description": "This setting allows you to control whether the milk collection rate is visible in the Customer App. When turned ON, the collection rate will be hidden and not visible to farmers. If turned OFF, the collection rate will be displayed to farmers for their milk collections.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy application.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the main menu and tap on Settings.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Look for the 'Hide Collection Rate' setting.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Toggle it ON to hide the rate or OFF to show it.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Click on Save to apply changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milk Sale Module Settings and Features",
+      "description": "The Milk Sale Module in the Mobile Dairy app is designed to help dairy centers manage milk sales efficiently. It includes features for configuring billing periods, printing milk sale bills, managing customers, and sending SMS notifications.",
+      "sections": [
+        {
+          "title": "Billing Period Setting",
+          "description": "This setting allows you to define the billing cycle for milk sale invoices. It helps your dairy center manage how frequently farmers are billed for their milk purchases—whether weekly, bi-monthly, or monthly—based on your operational preference. Choosing the right billing period helps streamline accounting and cash flow management.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the Milk Sale Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Billing Period' to view available options:",
+              "description": [
+                "Available Billing Cycles:",
+                "",
+                "Date-based Billing Periods:",
+                "  - 01–10, 11–20, 21–ME (Month End)",
+                "  - 01–15, 16–ME",
+                "  - 01–ME",
+                "  - 01–05, 06–10, 11–15, 16–20, 21–25, 26–ME",
+                "  - 06–15, 16–25, 26–05",
+                "",
+                "Weekday-based Billing Periods:",
+                "  - Monday",
+                "  - Tuesday",
+                "  - Wednesday",
+                "  - Thursday",
+                "  - Friday",
+                "  - Saturday",
+                "  - Sunday",
+                "",
+                "Note: Choose the billing period format that best suits your dairy center’s operational and accounting needs."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your selected billing period.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Milk Sale Bill Print Setting",
+          "description": "This setting lets you customize the appearance and layout of milk sale invoices printed by your dairy center. You can select the language for printing, decide how numbers appear, choose the printer type, pick from different print formats, and add any special notes you want printed on the bill. These options help ensure the invoices match your center’s branding and communication preferences, making them clearer and more professional for your customers.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Milk Sale Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Milk Sale Bill Print Setting' to see the available options:",
+              "description": [
+                "Print Language: Choose the preferred language in which the invoice will be printed.",
+                "",
+                "Number in Language:",
+                "  - On: Numbers on the invoice will be printed in the script of the selected language.",
+                "  - Off: Numbers will be printed in the standard English numeral format.",
+                "",
+                "Printer Type: Select the type of printer used for printing bills:",
+                "  - Laser",
+                "  - Thermal",
+                "",
+                "Print Format: Choose between different bill formats to suit your preferences:",
+                "  - Format-1",
+                "  - Format-2",
+                "",
+                "Note: Add any custom text or messages you want to appear on every bill."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your settings.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Add/Update Milk Sale Customers",
+          "description": "This feature allows you to manage milk sale customers by adding new ones or updating the profile of existing customers. Accurate customer data helps streamline milk sales, billing, and payment records.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Milk Sale Customers.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap the plus (+) icon to add a new customer or select an existing customer and tap the pen icon to update their profile.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Fill in all the required information:",
+              "description": [
+                "Enter a customer code (maximum 5-digit number).",
+                "Select the milk type (Cow or Buffalo).",
+                "Choose the appropriate cow/buffalo milk rate.",
+                "You can choose to turn ON or OFF the status of the customer."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Save the Customer",
+              "description": "Once all details are filled, tap Save to add or update the customer.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Add Milk Sale",
+          "description": "This feature allows you to record milk sales for each customer by entering the transaction details such as quantity, rate, and payment. Accurate milk sale entries ensure proper billing and account tracking.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Click on Add Milk Sale or tap the plus (+) icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Fill in all the required information:",
+              "description": [
+                "Enter a customer code or search customers using the search icon.",
+                "Select the date, milk type (Cow or Buffalo), and shift (Morning or Evening).",
+                "Enter the litre, rate, amount, paid amount, and balance amount."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Save the Entry",
+              "description": "Once all details are filled, tap Save to add the milk sale entry.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Generate Bill for Milk Sale",
+          "description": "This feature allows you to generate and share invoices for milk sales associated with individual customers. Bills can be printed, saved as PDFs, or shared via messaging platforms like WhatsApp, helping streamline payment and record-keeping.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on the Bill icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the customer for whom you want to generate the bill.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Review Milk Sale Records and Generate Invoice",
+              "description": [
+                "You will see a list of all recorded milk sale transactions for the selected customer.",
+                "Tap the Print icon to generate the invoice.",
+                "You can choose to save the bill as a PDF or share it via WhatsApp or other sharing platforms."
+              ],
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Add New Entries or Update Entries in Customer Khata",
+          "description": "Customer Khata works like a digital passbook in the Mobile Dairy app. It records all milk sale transactions for each customer, including received payments and pending dues. This helps dairy centers keep track of financial dealings with individual customers in an organized way.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Milk Sale Section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Customer Khata.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose Receive OR Pay as required.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Search or manually type the customer code in the search bar for the targeted customer.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose the appropriate Date, enter the amount received/payable, and write additional comments if any.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other Setting",
+      "description": "The Other Settings section in the Mobile Dairy app allows you to configure additional features that enhance the functionality of the app. These settings include managing bank details visibility, adjusting weighing scale formats, and configuring FAT and SNF display formats. By customizing these options, you can tailor the app to better suit your dairy center's operational needs.",
+      "sections": [
+        {
+          "title": "Bank Details Setting",
+          "description": "This setting allows you to control whether the bank details of farmers or customers are visible in the Farmers section of the Mobile Dairy app. When enabled, you will be able to view the bank information for each farmer, which can be helpful for managing payments or verifying account details. If this setting is turned off, the bank details will be hidden, ensuring privacy when you do not want this information to be displayed.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Bank Details' to view the available options:",
+              "description": [
+                "On: Bank details of farmers will be visible in the app.",
+                "Off: Bank details of farmers will be hidden."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Weighing Scale Format Setting",
+          "description": "This setting allows you to select the format in which weight measurements from the weighing scale are displayed in the Mobile Dairy app. Depending on the type of weighing scale you use, you can choose to display weights with zero decimal digits (rounded to whole numbers), one decimal digit, or two decimal digits for more precise readings. This setting is only applicable when you are using Auto or Online input directly from the weighing scale to capture the weight data.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Weighing Scale Format' to view the available options:",
+              "description": [
+                "As per Weighing Scale: Use the format provided by the connected scale.",
+                "Zero digit (00): Display weights rounded to whole numbers without decimals.",
+                "One digit (00.0): Display weights with one decimal place.",
+                "Two digit (00.00): Display weights with two decimal places for greater precision.",
+                "Note: This option only applies when Auto/Online input from the weighing scale is enabled."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "FAT Format' Setting",
+          "description": "This setting lets you decide how the FAT (milk fat percentage) values are displayed in the Mobile Dairy app. You can choose whether the FAT values should be rounded up, rounded down, or rounded normally (standard rounding). This option is relevant only when you use Auto or Online input from a Milk Analyzer device, which measures the FAT content of the milk. Proper rounding helps in accurate billing and reporting according to your center’s preference.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'FAT Format' to view available options:",
+              "description": [
+                "Round: Values are rounded to the nearest digit (e.g., 6.11 → 6.1, 6.15 → 6.2, 6.95 → 7).",
+                "Round Up: Values are always rounded up (e.g., 4.61 → 4.7, 4.95 → 5).",
+                "Round Down: Values are always rounded down (e.g., 5.11 → 5.1, 5.55 → 5.5).",
+                "Round Half Down: Values close to halfway are rounded down (e.g., 4.15 → 4.1, 4.95 → 4.9, but 4.99 → 5)."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "SNF Format Setting",
+          "description": "This setting allows you to control how the SNF (Solids-Not-Fat) values are displayed in the Mobile Dairy app. You can choose whether the SNF values should be rounded normally, rounded up, rounded down, or rounded half down. This is applicable only when you use Auto or Online input from a Milk Analyzer device that measures the SNF content. Selecting the proper rounding method ensures accurate billing and reporting according to your dairy center’s preferences.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'SNF Format' to view available options and select your preferred rounding method.",
+              "description": [
+                "Round: Standard rounding where values are rounded to the nearest digit (e.g., 6.11 → 6.1, 6.15 → 6.2, 6.95 → 7).",
+                "Round Up: Values are always rounded up (e.g., 4.61 → 4.7, 4.95 → 5).",
+                "Round Down: Values are always rounded down (e.g., 5.11 → 5.1, 5.55 → 5.5).",
+                "Round Half Down: Values close to halfway are rounded down (e.g., 4.15 → 4.1, 4.95 → 4.9, but 4.99 → 5)."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "CLR/Lacto Format Setting",
+          "description": "This setting allows you to configure how the CLR (Corrected Lactometer Reading) or Lactometer values are displayed in the Mobile Dairy app. You can select the rounding or precision format for these values, which is important for maintaining consistent and accurate milk quality records. This option is applicable only if your dairy center uses Auto or Online input from a Milk Analyzer device that measures CLR/Lacto values.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'CLR/Lacto Format' to view the available options.",
+              "description": [
+                "As per analyser – Displays the CLR/Lacto values exactly as measured by the analyzer device.",
+                "One digit (00) – Rounds the CLR/Lacto values to one decimal place.",
+                "Step (00.5) – Rounds the CLR/Lacto values to the nearest 0.5 step for simplified reporting.",
+                "Note: This setting applies only when Auto or Online input from a Milk Analyzer is in use."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Contact Details Setting",
+          "description": "This setting allows you to control what contact information is displayed for your dairy center in the Mobile Dairy app. You can specify a contact name and phone number that will be shown within the app and printed on the invoice. If you leave these fields blank, the app will automatically use the center owner’s name and mobile number as the default contact information. This helps ensure that customers always have a reliable point of contact related to the dairy center.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Contact Details' to edit the contact information.",
+              "description": [
+                "Name: Enter the contact person’s name here. This field must not be left empty.",
+                "Phone Number: Enter the contact mobile number here. This field must also not be empty.",
+                "These details will be displayed in the app and printed on all invoice receipts. If these fields are left empty, the system will use the center owner’s name and mobile number by default."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Computer Login Setting",
+          "description": "This setting allows you to enable or disable the ability to log in to the Mobile Dairy system from a computer. When enabled (On), authorized users can access the dairy center’s management features using a computer, providing flexibility beyond the mobile app. If disabled (Off), login via computer will be restricted, enhancing security by limiting access to only mobile devices.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Computer Login' to view and select the available options:",
+              "description": [
+                "On: Enables login to the system from a computer.",
+                "Off: Disables computer login access."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Center Logo Setting",
+          "description": "This setting allows you to upload or update the logo of your dairy center within the Mobile Dairy app. The selected logo will be prominently displayed on all printed bills and invoices, helping to brand your center’s documents professionally. Adding a logo gives your billing documents a customized and official appearance, enhancing recognition and trust among your customers.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Center Logo' to upload or change the logo image.",
+              "description": [
+                "Select the desired image file representing your center’s logo.",
+                "This logo will appear on all bill prints and invoices generated by the app."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MD STORE",
+      "description": "Official product catalog for Mobile Dairy Store, listing software, hardware, and accessories with detailed specifications.",
+      "sections": [
+        {
+          "title": "Bluetooth Thermal Printer",
+          "description": "Portable thermal printer for receipts, barcodes, QR codes, logos, and text using Thermal Direct Technology.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "This is a portable thermal printer that works without ink or ribbon using Thermal Direct Technology. It is commonly used to print receipts, orders, barcodes, QR codes, logos, and text.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Key Features",
+              "description":"Printer Type: Thermal printer\nPrint Method: No ink or ribbon needed\nPrint Speed: 90 mm per second\nPaper Size: 58 mm roll\nResolution: 203 dpi\nWeight: 670 grams\nDimensions: 7 x 5 x 4 inches",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Compatibility",
+              "description": "Works with smartphones, desktops, and laptops. Supports Android and Windows. Connectivity via Bluetooth and USB.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Box Includes",
+              "description": "USB cable\nPower cable\nDriver CD",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Warranty",
+              "description": "1 year manufacturer warranty",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Price",
+              "description": "₹3,500",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Thermal Paper – 2 Inch (Pack of 10)",
+          "description": "High-quality 2-inch thermal paper rolls for printing receipts, barcodes, QR codes, and text in thermal printers.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "This is a pack of high-quality 2-inch thermal paper rolls used for printing in thermal printers. Ideal for receipts, barcodes, QR codes, and text prints.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Key Features",
+              "description": "Paper Width: 2 inches (also called 58 mm; exact: 57±0.5 mm)\nRoll Diameter: 50 mm\nRoll Length: 20 to 25 meters",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Paper Quality",
+              "description": "Type: High-sensitivity thermal paper\nThickness: 55 to 65 GSM (durable and clear prints)\nColor: Standard white",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Printing Features",
+              "description": "Printing Method: Direct thermal (no ink or ribbon needed)\nSupports: Clear text, barcodes, and QR codes\nOptimized for: Low-energy thermal printers",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Compatibility",
+              "description": "Works with most 2-inch (58 mm) thermal printers including POS receipt printers, portable Bluetooth printers, and label printers.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Price",
+              "description": "₹400 for a pack of 10 rolls",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "MD Display",
+          "description": "Bluetooth-enabled LED display device for real-time display of milk collection data and other values.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "The MD Display is a Bluetooth-enabled LED display device designed to show important data in real-time. It is mainly used in milk collection centers, agriculture, or industrial setups to display values like Farmer Code, Litre, FAT, SNF/CLR, Rate, and Amount.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Wireless Connectivity",
+              "description": "Bluetooth Version: 4.0 / 5.0\nRange: Up to 10 meters\nData Speed: Up to 1 Mbps\nCompatible with Android devices",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "LED Display Specifications",
+              "description": "Type: High-contrast red LED\nScreen: 7-segment, 2 cm height\nLines: Can show up to 6 lines\nDisplay: Clear for both numbers and letters",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Displayed Information",
+              "description": "Farmer Code: Up to 6 characters\nLitre: Up to 5 digits with decimal\nFAT / SNF / CLR: Up to 4 digits with decimal\nRate: Up to 4 digits with decimal\nAmount: Up to 6 digits",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Other Details",
+              "description": "Dimensions: 7 x 5 x 1.5 inches\nWeight: 630 grams",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Box Includes",
+              "description": "MD Display unit\nPower Adapter",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Warranty",
+              "description": "1 year",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Price",
+              "description": "₹3,500",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "MD Box",
+          "description": "Bluetooth-enabled data bridge for legacy dairy equipment to send data from RS232 ports wirelessly.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "The MD Box is a Bluetooth-enabled device designed to collect data from legacy milk industry equipment like milk analyzers and weighing scales, using RS232 ports, and send that data wirelessly to mobile devices or computers via Bluetooth.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "RS232 Port Integration",
+              "description": "Number of Ports: 2 (1 for Weighing Scale, 1 for Milk Analyzer)\nConnector Type: DB9 Male\nBaud Rate: 1200 to 115200 bps (configurable)\nSignal Support: TX, RX, GND for full-duplex data transfer",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Bluetooth Connectivity",
+              "description": "Version: Bluetooth 4.0 / 5.0\nRange: Up to 10 meters (line-of-sight)\nData Speed: Up to 1 Mbps\nCompatibility: Android devices",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Build & Design",
+              "description": "Material: Durable high-quality metal\nDimensions: 100 x 70 x 30 mm (compact and portable)\nWeight: ~150 grams",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "LED Indicators",
+              "description": "Power status\nRS232 data (Tx/Rx)\nBluetooth connection status",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Price",
+              "description": "₹5,000",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Warranty",
+              "description": "1 year",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Bluetooth Thermal Printer with Battery",
+          "description": "Compact, battery-powered thermal printer for mobile printing without ink or ribbon.this has Price: ₹3,500",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "This is a compact, battery-powered thermal printer that prints without ink or ribbon. It’s ideal for receipts, orders, barcodes, QR codes, logos, and text.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Key Features",
+              "description": "Technology: Advanced Thermal Direct (no ink or ribbon needed)\nPrint Speed: 90 mm per second\nResolution: 203 dpi\nPaper Size: 58 mm\nWeight: Approximately 300 grams",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Compatibility",
+              "description": "Works with smartphones. Supports Android and Windows. Connection via Bluetooth.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Box Includes",
+              "description": "Power Adapter\nUSB Cable",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Warranty",
+              "description": "1 Year Manufacturer Warranty",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Price",
+              "description": "₹3,500",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Power Adapter",
+          "description": "Reliable power adapter compatible with various dairy hardware devices.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "A reliable power adapter designed for small electronic devices, compatible with many thermal printers and displays.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Technical Specifications",
+              "description": "Input Voltage: 100V – 240V AC\nFrequency: 50/60 Hz\nInput Plug Type: 2-pin plug\nOutput Voltage: 10.2V DC\nOutput Current: 1 Amp\nOutput Connector: Barrel Jack (5.5 mm x 2.5 mm)",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Price",
+              "description": "₹300",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "RS232 Cable (F-F)",
+          "description": "DB9 Female-to-Female RS232 cable for legacy equipment connections.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "This is a DB9 Female to Female RS232 cable, suitable for connecting devices like weighing scales, milk analyzers, or other RS232-compatible hardware.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Key Features",
+              "description": "Connector Type: DB9 Female to DB9 Female\nCable Length: 1.5 meters\nPin Configuration: Standard RS232 (TxD, RxD, GND, etc.)\nConnection Type: Supports Null Modem or Straight-Through connections\nDurability: Multi-core design for strong performance in industrial or field environments\nConductivity: High-quality connectors for stable data transfer",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Price",
+              "description": "₹160",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "RS232 Cable (M-F)",
+          "description": "DB9 Male-to-Female RS232 cable for legacy equipment connections.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Description",
+              "description": "This is a DB9 Male to Female RS232 cable, ideal for connecting RS232-compatible devices in industrial, dairy, or field setups.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Key Features",
+              "description": "Connector Type: DB9 Male to DB9 Female\nCable Length: 1.5 meters\nPin Configuration: Standard RS232 (TxD, RxD, GND, etc.)\nConnection Type: Supports Null Modem or Straight-Through configuration\nDurability: Multi-core cable built for high durability in demanding environments\nConductivity: High-quality connectors for stable and reliable data transfer",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Price",
+              "description": "₹160",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milk Collection (Collection Section)",
+      "description": "The Collection section is used to record daily milk collection from farmers. You can collect different types of milk such as:\n🐄 Cow Milk :Milk collected from cows, with lower fat and SNF.\n🐃 Buffalo Milk :Milk from buffaloes, richer in fat and SNF than cow milk.\n🥛 Mix Milk (Cow + Buffalo):A combination of cow and buffalo milk, with averaged fat and SNF.\n\n🥛 Skim Milk : Milk with most fat removed, collected after cream separation.\n\nMilk can be collected in two shifts: Morning and Evening, for both current and previous dates. You can also:\n✅ Add or reject milk based on quality\n✅ Add cans\n🚫 Specify reasons for rejection milk and mark bad cans",
+      "sections": [
+        {
+          "title": "Steps to Add a Milk Collection in the MD App",
+          "description": "Follow these steps to add a new milk collection entry.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Collection section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "You’ll see past collections listed.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "You can choose date, shift, and collection type here or in the next step.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap the (+ icon) on the top-right corner.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose the Date",
+              "description": "Defaults to the current date, but you can change to a previous date if needed",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Choose the Shift",
+              "description": "Morning\n Evening",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Select the Farmer",
+              "description": "Search by Farmer Code or Name using the search icon",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Choose Milk Type",
+              "description": " Cow Milk\n Buffalo Milk\n Mix\n Skim",
+              "imageURL": ""
+            },
+            {
+              "step": 10,
+              "title": "Enter Milk Details",
+              "description": " Quantity\n⚖ FAT and SNF values\n Rate (auto-filled if Rate Chart is enabled, or enter manually)",
+              "imageURL": ""
+            },
+            {
+              "step": 11,
+              "title": "Optional Settings",
+              "description": "Tap “Add Can” to record number of cans",
+              "imageURL": ""
+            },
+            {
+              "step": 12,
+              "title": "If milk quality is poor:",
+              "description": " Choose Reason for Rejection\n Specify Bad Cans",
+              "imageURL": ""
+            },
+            {
+              "step": 13,
+              "title": "Tap the  Save icon to record the collection.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Farmers",
+      "description": "The Farmer section helps you manage all your registered farmers in the Mobile Dairy app. You can:\n View a complete list of all farmers\n Add new farmers manually or via Excel import\n✏️ Update existing farmer details using an Excel file\n📊 See total number of farmers, and how many are active vs inactive",
+      "sections": [
+        {
+          "title": "How to Add a New Farmer",
+          "description": "Follow these steps to add a new farmer to the system.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Farmer section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Here, you’ll see a list of all existing farmers.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap the  (plus icon) in the top-right corner to add a new farmer.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Enter Farmer Code",
+              "description": "Use a unique Number.\n Mandatory field",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Enter Farmer Details",
+              "description": " First Name, Last Name, and English Name\n Mobile Number",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Select Milk Type to be collected",
+              "description": " Cow /  Buffalo /  Mix /  Skim\n Mandatory field",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Choose Milk Rate Type",
+              "description": " As per Rate Chart\n❗ Rate Chart – Penalty\n Rate Chart + Bonus\n Fixed Rate\n Manual Rate Entry",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Enter Bank Details",
+              "description": " Bank Name, Branch\n Account Number\n IFSC Code",
+              "imageURL": ""
+            },
+            {
+              "step": 10,
+              "title": "Enter Identity Information",
+              "description": "Aadhaar Number\n Farmer ID",
+              "imageURL": ""
+            },
+            {
+              "step": 11,
+              "title": "Tap on Save to register the farmer.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Food",
+      "description": "The Food section in the Mobile Dairy app helps dairy centers efficiently manage all operations related to cattle feed. It offers features to record food sales to farmers, manage and track food stock inventory, register and maintain food dealers, process dealer payments, and monitor all food-related transactions. This ensures transparency, accuracy, and better financial tracking in day-to-day food distribution and billing.",
+      "sections": [
+        {
+          "title": "Record a Food Sale",
+          "description": "👉 Use this feature when you sell food products (like cattle feed) to farmers. It helps you accurately record each sale, including the product sold, quantity, rate, total amount, and payment status. It ensures proper tracking of farmer dues and food distribution.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap the  (plus icon) to add a new sale entry.", "imageURL": "" },
+            { "step": 4, "title": "Select the Farmer and enter the Date.", "imageURL": "" },
+            { "step": 5, "title": "Choose the Food Name\n Rate, Quantity, and Amount auto-fill automatically", "imageURL": "" },
+            { "step": 6, "title": "Enter the Receipt Number (if payment has been made).", "imageURL": "" },
+            { "step": 7, "title": "Specify whether it’s a Cash Payment.", "imageURL": "" },
+            { "step": 8, "title": "Tap  Save to complete the entry.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Add Food Stock",
+          "description": " This option allows you to add new food stock into your inventory. You can associate each stock entry with a dealer, making it easier to track purchases and dealer-wise transactions. It supports auto-calculation of buy/sale rates for convenience.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app.", "imageURL": "" },
+            { "step": 2, "title": "Go to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap the ⋮ (three dots) in the top-right corner, then select Food Stock.", "imageURL": "" },
+            { "step": 4, "title": "Tap the  (plus icon) to add a new stock entry.", "imageURL": "" },
+            { "step": 5, "title": "Select the Food Dealer\n Tap to add a new dealer if not listed.", "imageURL": "" },
+            { "step": 6, "title": "Choose the Food Product\nBuy Rate and Sale Rate will auto-fill", "imageURL": "" },
+            { "step": 7, "title": "Enter the Quantity and Date of the stock entry.", "imageURL": "" },
+            { "step": 8, "title": "Enter the Amount Paid.", "imageURL": "" },
+            { "step": 9, "title": "Tap  Save to complete.", "imageURL": "" },
+            { "step": 10, "title": " Tip: Uncheck the “Stock Only” button to view previous stocks.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Add a Food Dealer",
+          "description": " Use this feature to register new vendors from whom you purchase cattle feed. Keeping dealer records up to date helps ensure accountability, simplifies future stock entries, and enables easier payment tracking.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap ⋮ (three dots) in the top-right corner, then select Food Dealer.", "imageURL": "" },
+            { "step": 4, "title": "Tap the  (plus icon) to add a new dealer.", "imageURL": "" },
+            { "step": 5, "title": "Enter a unique 5-digit Code.", "imageURL": "" },
+            { "step": 6, "title": "Fill in required details:\n Name\n📱 Mobile Number\n Address, Village, Taluka, District\n(Optional) Add any extra info.", "imageURL": "" },
+            { "step": 7, "title": "Set Dealer Status to On/Off.", "imageURL": "" },
+            { "step": 8, "title": "Tap  Save to complete.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Add a Dealer Payment",
+          "description": " This option allows you to record payments made to food dealers. It helps maintain accurate balances (both dues and advances) and provides a clear history of financial transactions with each dealer.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap ⋮ (three dots) in the top-right corner, then select Dealer Payment.", "imageURL": "" },
+            { "step": 4, "title": "You’ll now see the outstanding/advance payment summary for each dealer.", "imageURL": "" },
+            { "step": 5, "title": "Tap on the Amount Paid button next to the Total payment.", "imageURL": "" },
+            { "step": 6, "title": "Search for the dealer by name or select manually.", "imageURL": "" },
+            { "step": 7, "title": "Choose the Date of Payment.", "imageURL": "" },
+            { "step": 8, "title": "Enter the Amount Paid.", "imageURL": "" },
+            { "step": 9, "title": "(Optional) Add any Comments related to the payment.", "imageURL": "" },
+            { "step": 10, "title": "View the updated Balance Amount for that dealer.", "imageURL": "" },
+            { "step": 11, "title": "Tap  Save to finish.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "See / Save / Share Food Register",
+          "description": " This feature lets you view, download, or share a complete record of food sales made to farmers. It displays detailed transaction data such as farmer code, name, product sold, quantity, rate, total, and payment mode.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap ⋮ (three dots) in the top-right corner, then select Food Register.", "imageURL": "" },
+            { "step": 4, "title": "You’ll now see a list of food sold to various farmers with all transaction details.", "imageURL": "" },
+            { "step": 5, "title": "Tap the  Print icon to print the register.", "imageURL": "" },
+            { "step": 6, "title": "Or tap  Save as PDF to download or  share via WhatsApp or other apps.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "See / Update the Food Payment Register",
+          "description": " This register helps you monitor food-related payments made by farmers. You can also update payment records, view total balances (outstanding or advance), and filter only unpaid entries for quick follow-up.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Go to the Food section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on ⋮ (three dots) in the top-right corner and select Food Payment Register.", "imageURL": "" },
+            { "step": 4, "title": "You will see a list of food payments by various farmers, showing:\n💰 Outstanding or Advance balances for each farmer\n Total balance summary at the bottom", "imageURL": "" },
+            { "step": 5, "title": "You can uncheck the \"Include Paid\" option to view only those farmers who have pending dues.", "imageURL": "" },
+            { "step": 6, "title": "Tap the \"Adjustment/Receive\" button to record a payment.", "imageURL": "" },
+            { "step": 7, "title": "Search or enter the Farmer Code manually.", "imageURL": "" },
+            { "step": 8, "title": "Choose the Payment Date.", "imageURL": "" },
+            { "step": 9, "title": "Select whether you are:\n Receiving money from the farmer\n Giving money back to the farmer", "imageURL": "" },
+            { "step": 10, "title": "Enter the Amount Paid and add any Comments (optional).", "imageURL": "" },
+            { "step": 11, "title": "Tap on  Save to update the payment details.", "imageURL": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dairy Expenses",
+      "description": " Use this section to view and add all types of dairy-related expenses for a selected period. It helps you manage your financial records more effectively by offering both a summary and detailed view of your operational costs.\nIn this section, you can:\n📆 Filter and view overall or category-wise expenses for a specific date range.\n➕ Add new expenses under predefined categories to keep your records accurate and up to date.\n📊 Monitor where your money is going — whether it's staff salaries, transport, fuel, or miscellaneous costs.\n🧾 Track payments made to third parties (vendors, staff, suppliers, etc.) along with purpose and amount.\n\nA list of commonly available categories includes:\nStationery & Printing\nMilk Incentives\nTransport\nFuel\nStaff Salary\nElectricity Bill\nAssets\nCleaning Solution\nMaintenance\nPantry\nRent\nOther\nPhone Bill\nTravel\nLabor\n\nIf the category you need isn’t listed, you can reach out to the support team and request them to add it for you. This ensures your expense tracking stays customized and complete.\nThis section is especially useful during financial audits, monthly reviews, or simply to understand which areas of your dairy operations are consuming the most resources.",
+      "sections": [
+        {
+          "title": "See / Filter and Add a New Expense Dairy Expenses",
+          "description": " How to See / Filter and Add a New Expense Dairy Expenses",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Dairy Expenses section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Choose a Category and Date Range to filter expenses.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap the Apply button to view results.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap the ⋮ (three dots) in the top-right corner to see all expense categories.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap the  (plus) icon to add a new expense.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Select the Expense Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Choose the relevant Expense Category from the list.",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Enter the Party Name (person or vendor paid).",
+              "imageURL": ""
+            },
+            {
+              "step": 10,
+              "title": "Fill in the Expense Amount.",
+              "imageURL": ""
+            },
+            {
+              "step": 11,
+              "title": "Add Comments (optional).",
+              "imageURL": ""
+            },
+            {
+              "step": 12,
+              "title": "Tap on Save to record the entry.",
+              "imageURL": ""
+            },
+            {
+              "step": 13,
+              "title": "❗ If the expected category isn’t listed, please contact our support team—they’ll help you add it.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Notice Board",
+      "description": "The Notice Board in the Mobile Dairy app allows you to communicate important updates or announcements to farmers directly through their app. These notices can inform them about upcoming events, payment updates, milk collection changes, or any other essential information. You can add new notices, edit existing ones, or remove outdated messages. Additionally, you have the option to display the notice in the scrolling ticker at the bottom of the farmer's app for maximum visibility. Notices can be scheduled to appear only within a specific date and time range, giving you full control over what farmers see and when.",
+      "sections": [
+        {
+          "title": "View, Edit, or Delete an Existing Notice and Add a New Notice",
+          "description": " How to View, Edit, or Delete an Existing Notice and Add a New Notice",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Notice Board section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Here, you’ll see a list of all currently active or scheduled notices.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap on any notice to:",
+              "description": [
+                " Edit the subject, details, or display time.",
+                "Delete it if the notice is no longer needed.",
+                "View all information entered previously for reference."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap the (plus icon) in the upper-right corner of the screen.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Enter the Subject of the notice (limit: 250 characters).",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Write the Details of the notice (limit: 5000 characters).",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Choose whether to Show it in the bottom scrolling line in the farmer app — this helps draw extra attention to the notice.",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Select the Start Date/Time and End Date/Time for when the notice should be visible.",
+              "imageURL": ""
+            },
+            {
+              "step": 10,
+              "title": "Once everything is filled in, tap Save to publish the notice.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deduction",
+      "description": "The Deduction section in the Mobile Dairy app allows centers to track, add, and manage all deductions made from farmer payments. Deductions may include penalties, service charges, incentives, or predefined programs like Anamat. This section ensures full transparency and accountability for each deduction type, enabling centers to maintain accurate financial records for every farmer.\n\n🧾 Available Deduction Types\nThe app supports a wide range of deduction types to suit your center's operations:\n- Misc. Add\n- Incentive Day\n- Incentive\n- AB Test\n- Round Off\n- Handling\n- Management Other\n- Milk Sale\n- Other Payment\n- Bank Advance\n- Subsidy\n- Grocery\n- Commission\n- Commission in Percent\n- Management Charges C\n- Other Payment Cr\n- Transport\n- Management Charges\n- Anamat\n- Stationary\n- Rate Difference\n- Medicine\n- Etc\n\n🔁 Anamat (Advance Retention)\nAnamat is a special deduction where a small, agreed amount is deducted per litre of milk collected from the farmer. It acts as a retained savings fund, to be returned later after a mutually agreed period.\n🔸 Key Highlights:\n- Farmers and centers decide the amount per litre and the return date.\n- Participation is voluntary.\n- Farmers can withdraw their Anamat amount anytime if needed.\n- This system promotes savings and builds financial trust between centers and farmers.",
+      "sections": [
+        {
+          "title": "How to Add a New Anamat Transaction",
+          "description": "Follow these steps to record a new Anamat deduction for a farmer.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Deduction section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Set the Deduction Type to <b>Anamat</b>.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap the icon in the upper right corner.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select the Farmer (by code or name) and the Date of transaction.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose whether it is:\n- Received from Farmer, or\n- Given to Farmer",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Enter the Amount and any optional Comments.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Tap Save to complete the entry.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advance",
+      "description": "The Advance section in the Mobile Dairy app helps centers efficiently track, manage, and monitor advance payments made to farmers. This feature allows you to maintain accurate records of every rupee given as advance and keep an eye on the total outstanding balances for each farmer.\n\n📋 You’ll see a detailed list of all farmers who have received advances, along with:\n✅ Total Advance Given\n🧮 Remaining Balance\n📆 Disbursement Dates\n💬 Comments (if added)\n\nYou can also generate a PDF report by tapping the square icon in the upper-right corner and then the printer icon. This report can be shared via WhatsApp, email, or other apps — making communication with farmers and internal teams seamless.\n\nThis section ensures that dairy centers always have transparent records of financial support given to farmers, making deductions and repayments simple to manage.",
+      "sections": [
+        {
+          "title": "How to Add an Advance Entry",
+          "description": "Use these steps to add a new advance entry for a farmer and keep your records updated.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Deduction section. Here, you’ll see a list of all farmers with current advance entries and balance summaries.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap the (plus icon) in the upper-right corner to add a new advance.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Use the search bar or enter the farmer code to select the correct farmer.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select the Date of advance disbursement.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Enter the Advance Amount, Interest Rate (monthly), and any optional comments.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Finally, tap Save to store the advance entry.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Collection Reports",
+      "description": "Collection Reports section provides detailed summaries and analysis of milk collection data in various formats. It includes date-wise reports, farmer-wise summaries, center-wise statistics, block-wise views, and consolidated records. These reports help dairy staff, managers, and admins to track performance, milk quality, participation, and payment trends across multiple filters and time periods.",
+      "sections": [
+        {
+          "title": "Date Wise",
+          "description": "The Date Wise Report provides a summary of milk collection records from the selected centers during a specific time period. It helps dairy staff verify daily or date-range-based totals for each shift and milk type.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Go to the Report section from the main menu.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Date Wise under the Collection Report category.", "imageURL": "" },
+            { "step": 4, "title": "Select the centers whose data you want to view.", "imageURL": "" },
+            { "step": 5, "title": "Choose the start and end dates for the report.", "imageURL": "" },
+            { "step": 6, "title": "Pick the shift (Morning or Evening) and the milk type (Cow or Buffalo).", "imageURL": "" },
+            { "step": 7, "title": "Tap on Extra Filter to apply filters like Status (Accepted, Rejected, Rotten, or All) and Zero Type (Non Zeros, Only Zeros, or All).", "imageURL": "" },
+            { "step": 8, "title": "Tap on Submit to load the filtered report entries.", "imageURL": "" },
+            { "step": 9, "title": "Use the cloud icon on the top right to download the report, or tap the square icon to preview the report on screen.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Farmer Wise",
+          "description": "The Farmer Wise Report shows all milk entries collected from selected farmers during a specific time range. This report helps in analyzing individual farmer performance, milk quantity, and payment calculation.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Farmer Wise under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the From Date and To Date, then choose the shift (Morning or Evening).", "imageURL": "" },
+            { "step": 5, "title": "Choose one or more farmers from the list.", "imageURL": "" },
+            { "step": 6, "title": "Select the milk shift (All, Morning, or Evening) and milk type (Cow or Buffalo).", "imageURL": "" },
+            { "step": 7, "title": "Set sorting preferences using Sort By (Date, Code, Name, Unit, Amount, or Rate) and Order By (Ascending or Descending).", "imageURL": "" },
+            { "step": 8, "title": "Enable the option to include additions or deductions, if required.", "imageURL": "" },
+            { "step": 9, "title": "Choose whether you want to download the Excel version or preview the report.", "imageURL": "" },
+            { "step": 10, "title": "If previewed, the report can also be downloaded as PDF or directly shared via WhatsApp or other platforms.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Farmer Attendance",
+          "description": "The Farmer Attendance Report 📋 displays which farmers were present at the collection center on selected dates. It’s useful for tracking participation and identifying absentees over a period of time.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Tap on the Report section from the home screen.", "imageURL": "" },
+            { "step": 3, "title": "Choose Farmer Attendance from the Collection Report options.", "imageURL": "" },
+            { "step": 4, "title": "Select the desired center.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and End Date for which attendance data is needed.", "imageURL": "" },
+            { "step": 6, "title": "Select whether to download the data as Excel or just preview the report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Center Wise Summary",
+          "description": "The Center Wise Report provides a detailed summary of milk collected from selected dairy centers over a specified time range. It helps in comparing total quantities and quality of milk collected per center, along with helpful summary options like footer totals and sheet-wise data.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Center Wise under the Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers to include in the report.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date, and select the Shift (Morning or Evening).", "imageURL": "" },
+            { "step": 6, "title": "Pick the Milk Type (Cow or Buffalo) and Milk Status (Accepted / Rejected / Rotten).", "imageURL": "" },
+            { "step": 7, "title": "Choose whether to generate a Date-wise Summary, Center-wise Sheet, and a footer with total values.", "imageURL": "" },
+            { "step": 8, "title": "Select whether to download the report as an Excel file or preview it.", "imageURL": "" },
+            { "step": 9, "title": "After previewing, you can download it as a PDF or share directly via WhatsApp or other platforms.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Block Wise Summary",
+          "description": "The Block Wise Summary Report offers a list of all customers within the selected blocks. It provides a block-level view of milk collection distribution for quick administrative overviews.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Block Wise Summary under the Collection Reports.", "imageURL": "" },
+            { "step": 4, "title": "Select the required Blocks.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and End Date.", "imageURL": "" },
+            { "step": 6, "title": "Tap on Download Excel to get the report on your device.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Consolidated Collection",
+          "description": "This report combines all milk collection records into a consolidated format across selected centers. It helps managers get an overall view of milk collected over time without switching between center-wise details.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Consolidated Collection under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers to include.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date, and the Shift (Morning / Evening).", "imageURL": "" },
+            { "step": 6, "title": "Choose the Milk Type and Status (Accepted / Rejected / Rotten).", "imageURL": "" },
+            { "step": 7, "title": "Select whether to generate a Center-wise Sheet and a footer with totals.", "imageURL": "" },
+            { "step": 8, "title": "Choose to either Download Excel or Preview.", "imageURL": "" },
+            { "step": 9, "title": "After previewing, you can also download the report as PDF or share it via WhatsApp.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "CDA Report",
+          "description": "The CDA Report provides specific analysis of collection data per center, formatted according to CDA reporting rules. This format may require specific permissions or internal understanding.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on CDA Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the relevant Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date.", "imageURL": "" },
+            { "step": 6, "title": "Choose the Milk Type (Cow or Buffalo).", "imageURL": "" },
+            { "step": 7, "title": "Select if you want to include a footer with total values.", "imageURL": "" },
+            { "step": 8, "title": "Choose to download as Excel or preview the report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "CDA Summary Report",
+          "description": "This report gives a summarized view of CDA data with multiple optional data points like Milk Type, Fat/SNF kg, and total amount. It is useful for evaluating large-scale summaries for auditing or submission purposes.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on CDA Summary Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date.", "imageURL": "" },
+            { "step": 6, "title": "Choose whether to include Milk Type, KG Fat/SNF, Amount, or limit it to only MT/day (Metric Ton per day).", "imageURL": "" },
+            { "step": 7, "title": "Tap on Download Excel to get the summary.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Variance CDA Report",
+          "description": "The Variance CDA Report compares two sets of milk data (previous and current periods) to detect mismatches or discrepancies in collection, dispatch, or actual figures.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Variance CDA Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the Previous From Date and To Date.", "imageURL": "" },
+            { "step": 6, "title": "Choose the current From Date and To Date.", "imageURL": "" },
+            { "step": 7, "title": "Choose one of the comparison types:\n- Collection vs Actual\n- Collection vs Dispatch\n- Dispatch vs Actual", "imageURL": "" },
+            { "step": 8, "title": "Tap on Download Excel to get the comparison report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": " Variance Collection Report",
+          "description": "This report checks for variations in collection entries over two different date ranges to spot inconsistencies or anomalies in milk volume data.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Variance Collection Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the Previous From Date and Previous To Date.", "imageURL": "" },
+            { "step": 6, "title": "Choose the current From Date and To Date.", "imageURL": "" },
+            { "step": 7, "title": "Tap on Download Excel to save the report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Dispatch Report",
+          "description": "The Dispatch Report shows which customers’ milk was dispatched from selected centers over specific dates. It helps monitor milk movement and delivery logs.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Dispatch Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and End Date.", "imageURL": "" },
+            { "step": 6, "title": "Select the Milk Type (All / Cow / Buffalo).", "imageURL": "" },
+            { "step": 7, "title": "Choose to Download Excel or Preview.", "imageURL": "" },
+            { "step": 8, "title": "After previewing, you can save as PDF or share it directly via WhatsApp or other methods.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Milk CAN Wise Report",
+          "description": "This report offers insights into milk collected per milk CAN and optionally per farmer, helping staff track volumes and containers used in each shift.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Milk CAN Wise Report under Collection Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date.", "imageURL": "" },
+            { "step": 6, "title": "Select the Milk Shift (All / Morning / Evening).", "imageURL": "" },
+            { "step": 7, "title": "Choose the Milk Type (Cow / Buffalo / Both).", "imageURL": "" },
+            { "step": 8, "title": "Tick the checkbox if you want separate entries for each farmer; leave it unchecked for consolidated entries.", "imageURL": "" },
+            { "step": 9, "title": "Tap on Download Excel to get the report.", "imageURL": "" },
+            { "step": 10, "title": "After previewing, you can download as PDF or share it via WhatsApp or other options.", "imageURL": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bill Reports",
+      "description": "The Bill Reports section provides detailed billing and payment records for both centers and farmers. It helps in tracking milk transactions, bill generation, and payment status over a selected period—ensuring accurate financial management for dairy operations.",
+      "sections": [
+        {
+          "title": "Date Wise",
+          "description": "The Date Wise Bill Report gives a complete summary of milk collected and the corresponding bill amounts for each center during a specified date range. It’s ideal for center-level financial tracking and verification.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Date Wise under Bill Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers you want to include in the report.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date for the billing period.", "imageURL": "" },
+            { "step": 6, "title": "Tap on Submit to generate the report.", "imageURL": "" },
+            { "step": 7, "title": "Tap the square icon to preview the report, or the printer icon to download it.", "imageURL": "" },
+            { "step": 8, "title": "You can also tap the cloud icon to directly download the file.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Farmer Wise",
+          "description": "This report displays all the transactions made by the selected farmer over a specific period. It includes detailed entries like milk delivered, amount paid, deductions, and net payable—helpful for resolving farmer queries.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Farmer Wise under Bill Report.", "imageURL": "" },
+            { "step": 4, "title": "Choose the From Date and To Date.", "imageURL": "" },
+            { "step": 5, "title": "Select the Farmers whose records you want.", "imageURL": "" },
+            { "step": 6, "title": "Choose whether to Download Excel or Preview the report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Farmer Wise Bill Report",
+          "description": "The Farmer Wise Bill Report provides a consolidated list of all bill types generated for selected farmers. It includes summaries of various bill cycles, helpful for both payouts and accounting reviews.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Farmer Wise Bill Report under Bill Report.", "imageURL": "" },
+            { "step": 4, "title": "Choose the From Date and To Date for which you want the report.", "imageURL": "" },
+            { "step": 5, "title": "Select the Farmers whose billing history you wish to view.", "imageURL": "" },
+            { "step": 6, "title": "Choose to either Download Excel or Preview the report.", "imageURL": "" }
+          ]
+        },
+        {
+          "title": "Payment Register",
+          "description": "The Payment Register displays a record of all payment transactions made by the selected centers during a given period. It includes payment types, dates, and related amounts—ideal for audit or reconciliation purposes.",
+          "youtube_link": "",
+          "steps": [
+            { "step": 1, "title": "Open the Mobile Dairy app on your device.", "imageURL": "" },
+            { "step": 2, "title": "Navigate to the Report section.", "imageURL": "" },
+            { "step": 3, "title": "Tap on Payment Register under Bill Report.", "imageURL": "" },
+            { "step": 4, "title": "Select the Centers you want to view.", "imageURL": "" },
+            { "step": 5, "title": "Choose the From Date and To Date.", "imageURL": "" },
+            { "step": 6, "title": "Select whether to Download Excel or Preview the report.", "imageURL": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cattle Feed Sale Reports",
+      "description": "The Cattle Feed Sale Reports section helps dairy centers track and manage the sale of cattle feed products. It provides detailed records of purchases by date, farmer, product, and more—making it easier to monitor inventory, transactions, and billing for cattle feed.",
+      "sections": [
+        {
+          "title": "Date Wise",
+          "description": "This report shows a detailed list of all cattle feed product sales for selected centers during a chosen time range. It allows sorting and filtering by date, farmer, product, and more for better analysis.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Date Wise under Cattle Feed Sale Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Centers.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Select the Products you want to include.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Choose sorting preferences:\nSort By: Date / Code / Name / Unit / Amount / Rate\nOrder By: Ascending / Descending",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Select the report type:\nAll Farmers\nFarmer Wise → If chosen, select the farmer",
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Choose to either Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Farmer Wise",
+          "description": "This report gives a farmer-specific breakdown of all cattle feed products purchased within the selected date range. It’s useful for reviewing individual farmer transactions.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Farmer Wise under Cattle Feed Sale Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select the Farmers you want the report for.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Sale Summary",
+          "description": "The Sale Summary Report gives an overview of all cattle feed sales across selected centers within a defined period. You can also choose to view the data in a center-wise format.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Sale Summary under Cattle Feed Sale Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Centers.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose whether to include:\nCenter-Wise Report",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Food Sale Register",
+          "description": "This report shows detailed records of all cattle feed products sold, along with their prices. It also allows adding new stock entries for a farmer directly from the report screen.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Food Sale Register under Cattle Feed Sale Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select the Product to view related transactions.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose the Food Stock:\nTo add a new food product for a farmer, tap the ➕ icon at the top-right corner.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Choose to either Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cattle Feed Purchase Reports",
+      "description": "The Cattle Feed Purchase Reports section helps dairy centers track their cattle feed stock, vendor payments, and profitability. It provides clear insights into stock purchases, vendor-wise summaries, and profit/loss analysis for better inventory and cost management.",
+      "sections": [
+        {
+          "title": "Stock Summary",
+          "description": "This report gives a complete overview of stock purchases made at selected centers within a specific time range. It also supports center-wise summaries for deeper insights.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Stock Summary under Cattle Feed Purchase Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Centers.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose whether to enable Center-Wise Report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Food Stock Purchase Report",
+          "description": "This report provides a detailed list of all food stock purchases made for the selected center. It helps track purchase history and supplier activity.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Food Stock Purchase Report from the Cattle Feed Purchase Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Center.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and End Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Dealer Payment Summary",
+          "description": "This report provides a summary of all payments made to dealers within a specific time range. You can filter it by vendor and even add new vendors on the go.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Dealer Payment Summary under Cattle Feed Purchase Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose from the following options:\nAll Vendors\nVendor Wise → If selected, pick a Food Dealer",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap the icon (top-right) to add a new dealer if needed.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Food Wise Profit Loss",
+          "description": "This report shows profit and loss details for each cattle feed product at selected centers over a defined time period. It helps identify which products are profitable and which are not.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Stock Summary under Cattle Feed Purchase Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Centers.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Select the Product to analyze.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Choose whether to include a Center Wise Report.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milk Sale Reports",
+      "description": "The Milk Sale Reports section helps you monitor and track all customer-side transactions related to milk sales. Whether you're looking for individual customer details, sale bills, or passbook-style khata records, these reports make it easy to view and manage sales data over any time range.",
+      "sections": [
+        {
+          "title": "Customer Wise",
+          "description": "This report gives you a list of customers and the quantity of milk sold to them within a selected date range. It supports filters for shift, milk type, and whether the data should be shown for all farmers or a specific one.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Customer Wise under Milk Sale Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date, and select the Shift (Morning / Evening).",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose:\nMilk Shift: All / Morning / Evening\nMilk Type: Cow / Buffalo",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose report type:\nAll Farmers\nFarmer Wise → Select any Farmer",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Sale Bill Customer Wise",
+          "description": "This report provides customer-wise billing details for milk sales made by selected farmers. It is helpful for invoice tracking and individual farmer billing.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Sale Bill Customer Wise under Milk Sale Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose report type:\nAll Farmers\nFarmer Wise → Select any Farmer",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Customer Khata",
+          "description": "This is like a digital passbook for milk sale customers, showing all transactions—received or payable—for the selected customers within a specific time period.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Customer Khata under Milk Sale Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose report type:\nAll Farmers\nFarmer Wise → Select any Farmer",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Select whether to Download Excel or Preview the report.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advance Reports",
+      "description": "The Advance Reports section provides detailed insights into advance payments, loans, and related summaries for both farmers and centers. These reports help track individual transactions, summarize outstanding amounts, and enable easy exporting or sharing of data via Excel, PDF, or WhatsApp.",
+      "sections": [
+        {
+          "title": "Farmer Wise (Advance Report)",
+          "description": "This report shows a list of all advance payments made by the selected farmers within a specific date range. Ideal for tracking advances farmer by farmer.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Farmer Wise under Advance Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and End Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Select the Farmer.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose one of the options:\nDownload Excel to save the report\nPreview the report on-screen",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "After previewing:\nYou can download the report as PDF\nOr share it directly via WhatsApp or other apps 📤",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Farmer Advance Wise",
+          "description": "This report allows you to search and view individual farmer advance entries using farmer code or name, and view them date-wise.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Farmer Advance Wise under Advance Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Either:\nManually type the Farmer Code\nOr select a Farmer from the list",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose from the list of advances arranged by date",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap Download Excel to save the report",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "After previewing:\nYou can download it as PDF\nOr share via WhatsApp or other platforms",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Loan Report",
+          "description": "This report shows loan entries recorded over time for the selected duration, useful for reviewing overall loans provided.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Loan Report under Advance Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap on:\nDownload Excel to save locally\nPreview the report",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "After previewing:\nYou can download PDF\nOr share it directly via WhatsApp or other apps",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Center Loan Summary",
+          "description": "Provides a summarized report of all loans taken by or given to selected centers within the chosen time range.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center Loan Summary under Advance Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Centers.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose whether to:\nDownload Excel\nOr Preview the report",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Farmer Loan Summary",
+          "description": "Displays a summary of loans for selected farmers, helping in managing and auditing farmer-specific financial records.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Farmer Loan Summary under Advance Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose whether to:\nDownload Excel\nOr Preview the report",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Master Reports",
+      "description": "The Master Reports section helps you access complete lists of core entities like centers, farmers, customers, and food dealers. These reports are mainly used for viewing and exporting master data in Excel format for record-keeping and analysis.",
+      "sections": [
+        {
+          "title": "Center List",
+          "description": "The Center List Report provides a list of all registered milk collection centers, categorized by their status.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Center List under Master Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose the center status:\nActive\nInactive\nAll",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap on Download Excel ",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Farmer List",
+          "description": "The Farmer List Report gives a detailed list of farmers associated with the selected center, including optional rate and deduction information.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Farmer List under Master Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Center",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose options:\n Show Rate Details\n Show Deduction Details",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Decide if you want to:\n Generate a Center-wise Sheet",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Tap on Download Excel ",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Milk Sale Customer List",
+          "description": "The Milk Sale Customer List shows a complete list of milk sale customers for a selected center, with optional rate details.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Milk Sale Customer List under Master Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Center",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Choose options:\n Show Rate Details\n Generate Center-wise Sheet",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Download Excel ",
+              "imageURL": ""
+            }
+          ]
+        },
+        {
+          "title": "Food Dealer List",
+          "description": "The Food Dealer List gives you access to a list of food product dealers linked to a selected center.",
+          "youtube_link": "",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Food Dealer List under Master Reports.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the Center",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Tap on Download Excel ",
+              "imageURL": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other Reports",
+      "description": "The Other Reports section contains additional helpful records related to passbooks, milk purchase reports, dairy expenses, and app usage by farmers. These are essential for tracking center activities, expenses, and farmer engagement.",
+      "sections": [
+          {
+          "title": "Passbook",
+          "description": "The Passbook Report provides a financial summary of transactions for farmers in a selected center and date range.",
+          "youtube_link": "",
+          "steps": [
+              {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+              },
+              {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+              },
+              {
+              "step": 3,
+              "title": "Tap on Passbook under Other Reports.",
+              "imageURL": ""
+              },
+              {
+              "step": 4,
+              "title": "Select the Centers ",
+              "imageURL": ""
+              },
+              {
+              "step": 5,
+              "title": "Choose a Passbook Type as per your requirement.",
+              "imageURL": ""
+              },
+              {
+              "step": 6,
+              "title": "Select: Previous From Date and Previous To Date, From Date and To Date.",
+              "imageURL": ""
+              },
+              {
+              "step": 7,
+              "title": "Choose farmers:\nTap All Farmers to include everyone\nOr select individual farmers by typing their code or name.",
+              "imageURL": ""
+              },
+              {
+              "step": 8,
+              "title": "Tap on Submit to preview the report.",
+              "imageURL": ""
+              },
+              {
+              "step": 9,
+              "title": "Tap the Cloud icon in the upper right to download.",
+              "imageURL": ""
+              }
+          ]
+          },
+          {
+          "title": "Milk Sale Purchase Report",
+          "description": "This report shows milk sales and purchases filtered by shift and milk type.",
+          "youtube_link": "",
+          "steps": [
+              {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+              },
+              {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+              },
+              {
+              "step": 3,
+              "title": "Tap on Milk Sale Purchase Report under Other Reports.",
+              "imageURL": ""
+              },
+              {
+              "step": 4,
+              "title": "Choose the From Date and To Date",
+              "imageURL": ""
+              },
+              {
+              "step": 5,
+              "title": "Filter your data:\n Shift: Morning / Evening / Both\n Milk Type: Cow / Buffalo / Both",
+              "imageURL": ""
+              },
+              {
+              "step": 6,
+              "title": "Tap the Square icon  to preview.",
+              "imageURL": ""
+              },
+              {
+              "step": 7,
+              "title": "Tap the Cloud icon to download.",
+              "imageURL": ""
+              }
+          ]
+          },
+          {
+          "title": "Dairy Expense",
+          "description": "This report provides a breakdown of various expenses recorded for selected centers.",
+          "youtube_link": "",
+          "steps": [
+              {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+              },
+              {
+              "step": 2,
+              "title": "Go to the Report section.",
+              "imageURL": ""
+              },
+              {
+              "step": 3,
+              "title": "Tap on Dairy Expense under Other Reports.",
+              "imageURL": ""
+              },
+              {
+              "step": 4,
+              "title": "Select the Centers ",
+              "imageURL": ""
+              },
+              {
+              "step": 5,
+              "title": "Choose the From Date and To Date.",
+              "imageURL": ""
+              },
+              {
+              "step": 6,
+              "title": "Select one or more Expense Categories.",
+              "imageURL": ""
+              },
+              {
+              "step": 7,
+              "title": "Tap:\n Download Excel to export\n Preview to view in the app.",
+              "imageURL": ""
+              }
+          ]
+          },
+          {
+          "title": "📱 Farmer App Download Report",
+          "description": "This report shows which farmers have or haven’t installed the Mobile Dairy app.",
+          "youtube_link": "",
+          "steps": [
+              {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+              },
+              {
+              "step": 2,
+              "title": "Navigate to the Report section.",
+              "imageURL": ""
+              },
+              {
+              "step": 3,
+              "title": "Tap on Farmer App Download Report under Other Reports.",
+              "imageURL": ""
+              },
+              {
+              "step": 4,
+              "title": "Choose the Report Type:\nAll – includes both app users and non-users\nWith App – only farmers who have the app\nWithout App – farmers who don’t have the app.",
+              "imageURL": ""
+              },
+              {
+              "step": 5,
+              "title": "Tap on Download Excel",
+              "imageURL": ""
+              }
+          ]
+          }
+      ]
+    }
+  ]
+}
+
+

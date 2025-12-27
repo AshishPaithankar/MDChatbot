@@ -1,0 +1,9 @@
+.env
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+media
+local_settings.py
+.venv

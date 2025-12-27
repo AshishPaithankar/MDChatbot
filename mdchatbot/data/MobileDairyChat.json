@@ -1,0 +1,2279 @@
+{
+  "guides": [
+      {
+        "title": "Collection Type Setting",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Collection Type for a Dairy Center",
+            "description": "While collecting milk, the rate is determined based on FAT Content, SNF Content, and Auto CLR. These settings help record these milk parameters, which are then used to calculate the rate with the help of the rate chart saved.\n\nFAT refers to milk fat, also known as butterfat, which is the natural fat found in milk. It is measured as a percentage of the milk's weight, such as '3.5% fat' meaning that 3.5% of the milk’s weight is fat. This percentage affects the milk's texture and calorie content.\n\nSNF stands for Solids Not Fat, which includes all the non-fat, non-water components of milk such as proteins, carbohydrates, minerals, and vitamins. For example, '7.5%' SNF means that 7.5% of the milk's content is made up of solids other than fat.\n\nCLR stands for Corrected Lactometer Reading, which measures the quality and density of milk. This value helps assess if water has been added to the milk.\n\nThe Collection Type settings allow you to define the method by which milk data is collected and recorded in the Mobile Dairy App.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon on top right corner",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the collection type.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Settings section. Tap on Collection Type and choose from the available options:",
+                "description": [
+                                "FAT Only – Collect milk based on FAT content only.",
+                                "CLR Only – Collect milk based on CLR (Corrected Lactometer Reading) only.",
+                                "FAT + SNF – Collect milk based on both FAT and SNF (Solids-Not-Fat).",
+                                "FAT + CLR – Collect milk based on both FAT and CLR.",
+                                "FAT + CLR + Auto SNF – Milk is collected based on all two parameters: FAT and CLR then Auto SNF is calculated and its value is displayed",
+                                "Liter Only – Collect milk based solely on volume (liters)."],
+
+                "imageURL": "https://drive.google.com/file/d/1Agzko9QP6IKNc68uGiJdq4oDbgR6hq1g/view?usp=sharing, https://drive.google.com/file/d/1a3U1DuZll0jYUP4q69VIXDpYu8R-x7NS/view?usp=sharing"
+              },
+              {
+                "step": 6,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.Once selected, your changes will be applied to the center's collection settings",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+    {
+        "title": "Milk Type Settings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Milk Type for a Dairy Center",
+            "description": "Milk type settings allow you to specify whether the collected milk is from cows, buffaloes, or both.\n\nCow milk and buffalo milk differ in several key aspects. Cow milk is generally thinner, easier to digest, and preferred for infants and adults seeking a lighter option. It is lower in fat and calories, making it ideal for those aiming for weight loss or a low-fat diet.\n\nBuffalo milk, on the other hand, is thicker, richer in fat, protein, and calories, and contains less water. It is not as easily digestible but is beneficial for adults looking for a more energy-dense option, especially for weight gain. While cow milk is often seen as the healthier daily option, buffalo milk provides more nutrients per serving and is better suited for those needing extra nourishment.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the milk type.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Settings section. Tap on Milk Type and choose from the available options:",
+                "description": [
+                                "Cow: Select this if you are collecting cow milk only.",
+                                "Buffalo: Select this if you are collecting buffalo milk only.",
+                                "Both: Select this if you are collecting both cow and buffalo milk."],
+                "imageURL": "https://drive.google.com/file/d/1K0Q3sp0aGyiJznW0m_hdqGdJ7oLNCmNY/view?usp=sharing, https://drive.google.com/file/d/1-pnvISUJJKEyR4TvX5LbZ3EiKsnBP9KD/view?usp=sharing"
+              },
+              {
+                "step": 6,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": "https://youtu.be/KQG_bR1I154?si=qfwHM38O3-BcLHpx"
+        }
+      },
+      {
+        "title": "Collection Input Settings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Collection Input for a Dairy Center",
+            "description": "The Collection Input settings allow you to define the method by which milk data is collected and recorded in the Mobile Dairy App.\n\nCollection Input can be configured as Manual + Automatic, Weighing Scale + Milk Analyzer Automatic, Only Milk Analyzer Automatic, or Only Milk Weighing Scale Automatic. All automatic collection inputs are fetched with the help of an external device called the MD Box.\n\nManual Collection Inputs mean that values such as milk quantity, FAT, and SNF are entered manually into the mobile or computer by the user.\n\nAutomatic Collection Inputs mean the values are displayed automatically on the mobile or computer screen once the MD Box is wire-connected to the Weighing Scale and Milk Analyzer. These devices sense the values of respective milk parameters and send the data to the app. The MD Box is connected to the mobile or computer via Bluetooth.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the collection input method.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Settings section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Collection Input and choose from the available options:",
+                "description": [
+                          "Manual + Automatic:  Combines both manual data entry and automatic data is collected with the help external MD Box device which is connected to Mobile / Computer via Bluetooth and is connected to Weighing Scale or Milk Analyzer through wired connections.",
+                          "Weighing Scale + Milk Analyzer Automatic: Utilizes both the weighing scale and milk analyzer for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected to Weighing Scale and Milk Analyzer through wired connections",
+                          "Only Milk Analyzer Automatic:  Utilizes only the milk analyzer for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected Milk Analyzer through wired connections. Weighing Scale entry can be entered manually.",
+                          "Only Milk Weighing Scale Automatic: Utilizes only the weighing scale for automatic data collection with help of MD Box device which is connected to Mobile / Computer via Bluetooth and is connected Weighing Device through wired connections. Milk analyzer entry can be entered manually."],
+                "imageURL": "https://drive.google.com/file/d/18JDQjv5A1xwyOWCiiY_OcYlRClDYpRr6/view?usp=sharing, https://drive.google.com/file/d/1xsRB-l5qDrPyTCd-1reNTG0weTG-cX7p/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.Once you've selected the desired option, the changes will be applied to the center's collection input settings.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "Show Previous Collection Settings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Show Previous Collection for a Dairy Center",
+            "description": "The “Show Previous Collection” setting enables you to view a farmer’s past milk collection data while recording new entries. It displays the average of milk collected over the past two days for reference, shown at the bottom of the collection screen.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the previous collection display settings.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Settings section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Show Previous Collection and choose from the available options:",
+                "description": [
+                          "Yesterday Both Shifts:Displays data from both the morning and evening shifts of the previous day at the bottom while recording the current dated collections.",
+                          "Last Current Shift: Shows data from the most recent shift (either morning or evening) prior to the current collection.",
+                           "Last Two Shifts Average: Shows data from the most recent shift (either morning or evening) prior to the current collection at the bottom while recording the current collection.",
+                          "Last Four Shifts Average: Calculates and displays the average data from the last two consecutive shifts at the bottom while recording the current dated collections.",
+                          "Last Two Current Shifts Average:Calculates and displays the average data from the last four consecutive shifts  at the bottom while recording the current dated collections"],
+                "imageURL": "https://drive.google.com/file/d/16ijiBmHfnDvdgRbFQPCY5i7iWmsmRKon/view?usp=sharing, https://drive.google.com/file/d/1DjjeGNsZFYU7Wb1stgUE57g1ya1zvy_H/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "Offline Collection Setting",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Offline Collection for a Dairy Center",
+            "description": "The Offline Collection feature allows you to record milk collection data without an active internet connection.\n\nIf the Offline Collection setting is turned ON, you can enter milk collection data even without internet access. The data is saved locally and automatically synced to your account once the internet is available.\n\nIf the setting is turned OFF, you must have an active internet connection to record any milk collection data.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the offline collection setting.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Setting section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Offline Collection and choose from the available options:",
+                "description": [
+                          "On: Enables milk collection data entry without an internet connection. Data will sync automatically when connectivity is restored.",
+                          "Off: Disables offline data entry, requiring an active internet connection for milk collection recording."],
+                "imageURL": "https://drive.google.com/file/d/1UUKsyAA709ebF69hvs3_yeCnahTSryBm/view?usp=sharing, https://drive.google.com/file/d/1YACP8cVg1lYoU5MA3m474Z4JZ43pDWDg/view?usp=sharing, https://drive.google.com/file/d/1IU9sCk1asyO2qpoJGsC6Bp0iY5vht1mz/view?usp=sharing, https://drive.google.com/file/d/1_7O89FyvnlxkdTnQGSC-ZYt0JZWXkLdr/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.By enabling the Offline Collection feature, you ensure seamless data recording during milk collection, even in remote locations with connectivity challenges.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "Collection Shift Settings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Collection Shift for a Dairy Center",
+            "description": "The Collection Shift setting determines the specific times during which the dairy center collects milk from farmers. By selecting a particular shift, you ensure that milk collection entries are recorded only for the designated time periods.\n\nMilk Center users must select the appropriate milk collection shift:\n- Morning Shift: Milk is collected only in the morning.\n- Evening Shift: Milk is collected only in the evening.\n- Morning + Evening: Milk is collected in both shifts, and the user must manually select Morning or Evening during collection.\n- Auto (Morning + Evening): The shift automatically changes to Evening after 1:00 PM.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the collection shift.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Setting section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Collection Shift and choose from the available options:",
+                "description": [
+                  "Morning: Restricts milk collection entries to the morning shift only.",
+                  "Evening: Restricts milk collection entries to the evening shift only.",
+                  "Morning + Evening: Allows milk collection entries during both morning and evening shifts.",
+                  "Auto (Morning + Evening): Automatically manages entries for both morning and evening shifts based on the current time. Note: Collection shift will automatically change to evening after 1.00 pm."
+                ],
+                "imageURL": "https://drive.google.com/file/d/1I1uDDFQZA-8M14UeQDYn8cJBnYmY4fCa/view?usp=sharing, https://drive.google.com/file/d/1e8e9XqumGs8DKhonLHneePalgWpRxk_N/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.By configuring the Collection Shift setting, you ensure that milk collection activities are accurately recorded according to the operational schedule of your dairy center.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "Morning / Evening Shift Timings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Morning/Evening Shift timings for a Dairy Center",
+            "description": "The Morning/Evening Shift Timings setting defines the permissible time frames during which milk collection can occur for each shift. By specifying these timings, you ensure that milk collections are recorded only within the designated periods, helping maintain accurate and timely data entry.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the shift timings.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection setting sections.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Morning/Evening Shift and set the timings",
+                "description": [
+                  "Set the Start Time: Tap on the Start Time field and select the desired time when the shift begins.",
+                  "Set the End Time: Tap on the End Time field and select the desired time when the shift ends."
+                ],
+                "imageURL": "https://drive.google.com/file/d/1NjT4_Aw2tPGFu1zKMggXR7_7qWwB4cnv/view?usp=sharing, https://drive.google.com/file/d/1cvh5Cj5bxQTRvfY8OIynh0AzAAB-pVdd/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Save the changes by tapping on the Save button located at the bottom right corner.By configuring the “Morning/Evening Shift Timings”, you ensure that milk collection entries are restricted to the specified time frames, maintaining accurate and organized records for each shift.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "Collection Print Settings",
+        "sections": [
+          {
+            "title": "How to Set Up or Update the Collection Print Setting for a Dairy Center",
+            "description": "The Collection Print Settings allow you to customize the details and format of the receipts generated after milk collection. This ensures that the printed receipts match your preferences and include the specific information you want to share with farmers.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Launch the Mobile Dairy app.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap on the Settings icon.",
+                "imageURL": "https://drive.google.com/file/d/1CyKD9z5mDbtahHegOof0xIe8q5dvbtUa/view?usp=sharing"
+              },
+              {
+                "step": 3,
+                "title": "Tap on Center Information.",
+                "imageURL": "https://drive.google.com/file/d/19tx9CuamQ3twIOlkuBSS4gxJGlXLySDT/view?usp=sharing"
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center where you want to update the print settings.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to the Collection Settings section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on Collection Print Settings: Select Receipt Language , the available languages are Hindi,Marathi,Gujarati,Tamil, Telugu, Punjabi, English",
+                "imageURL": "https://drive.google.com/file/d/18B4yNUusNDd8AZu9tm4NoBtzeTsuWDkv/view?usp=sharing, https://drive.google.com/file/d/1uZ0M4Ny2Ef473Za7hJEc10sE8pUGQHwf/view?usp=sharing"
+              },
+              {
+                "step": 7,
+                "title": "Select Parameters to Print on Receipt",
+                "description": [
+                  "Specify which parameters should appear on the receipt. Available options include: FAT, SNF, CLR, Litre, Rate, Amount, Total Litre, Total Amount, Centre Logo, Number in Language.",
+                  "Input Note: Add any additional notes or messages that should be printed on the receipt.",
+                  "Select Print Format: Choose from the available print formats to determine the layout and design of the receipt."
+                ],
+                "imageURL": "https://drive.google.com/file/d/1AYGdc1OqTgg-3TWUJmAh8ADzjWUm6cbm/view?usp=sharing"
+              },
+              {
+                "step": 8,
+                "title": "Save the Changes: Tap on the Save button located at the bottom right corner to apply your configurations.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },
+      {
+        "title": "SMS Type Setting",
+        "sections": [
+          {
+            "title": "How to Set Up or Update SMS Type Setting for a Dairy Center",
+            "description": "The SMS Type Setting allows you to choose how notifications or SMS messages are sent to farmers. These messages inform them about key dairy-related activities such as milk collection, milk sales, and other updates.",
+            "steps": [
+              {
+                "step": 1,
+                "title": "Open the Mobile Dairy app on your device.",
+                "imageURL": ""
+              },
+              {
+                "step": 2,
+                "title": "Tap the Settings icon.",
+                "imageURL": ""
+              },
+              {
+                "step": 3,
+                "title": "Go to Center Information.",
+                "imageURL": ""
+              },
+              {
+                "step": 4,
+                "title": "Select the dairy center you want to configure.",
+                "imageURL": ""
+              },
+              {
+                "step": 5,
+                "title": "Scroll down to find the SMS Settings section.",
+                "imageURL": ""
+              },
+              {
+                "step": 6,
+                "title": "Tap on SMS Type Setting to view available options.",
+                "description": [
+                  "6.1. Customer App: Sends notification updates through the MD Customer App. This method is free of cost.",
+                  "6.2. SIM Card: Send SMS updates as simple text messages using your device’s SIM SMS pack. Messages will be deducted from your SIM balance(100 sms per day).",
+                  "6.3. Server SMS Pack: Allows you to send SMS through Mobile Dairy's server-based SMS packs. Useful when more than 100 SMS are to be sent daily.",
+                  "6.4. SIM + Server + Customer App (Combined Option): A hybrid setup that ensures maximum message delivery:\n - First, it tries SIM SMS.\n - If SIM fails, it uses Server SMS.\n - Farmers with the Customer App always get free notifications."
+                ],
+                "imageURL": ""
+              },
+              {
+                "step": 7,
+                "title": "Save the Changes",
+                "description": "Tap the Save button located at the bottom-right corner to apply your selected SMS method.",
+                "imageURL": ""
+              }
+            ]
+          }
+        ],
+        "resources": {
+          "youtube_link": ""
+        }
+      },{
+
+      "title": "Send SMS For Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update 'Send SMS For' Setting for a Dairy Center",
+          "description": "The Send SMS For setting allows you to manage which events will trigger SMS or notification updates to farmers. These updates help keep farmers informed about various transactions and activities related to your dairy center.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Send SMS For to view available options.",
+              "description": [
+                "Collection: Sends an update when milk is collected from a farmer.",
+                "Food: Sends an update when a farmer buys cattle feed from the center.",
+                "Invoice Payment: Sends an update when a payment is made (by or to the farmer).",
+                "Loan: Sends an update when a loan is issued to a farmer.",
+                "Loan Installment: Sends an update when a loan installment is paid.",
+                "Milk Sale: Sends an update when milk is sold by the dairy center.",
+                "Milk Receive: Sends an update when milk is received at the center.",
+                "Milk Dispatch: Sends an update when milk is dispatched from the center."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": [
+                "Tap the Save button located at the bottom-right corner to apply your selected events.",
+                "Note: You can select multiple events depending on your communication needs. Each event SMS will be counted as a separate message, consuming SMS credits from your SIM or Server SMS Pack. Farmers using the Customer App will continue to receive free notifications, if registered..."
+              ],
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Farmer App Link in SMS",
+      "sections": [
+        {
+          "title": "How to Set Up or Update 'Farmer App Link in SMS' Setting for a Dairy Center",
+          "description": "The Farmer App Link in SMS setting allows you to automatically include a download link for the MD Customer App in every SMS sent to farmers. This encourages them to install the app so you can eventually switch to the Customer App notification system, which is free, reducing reliance on paid SMS via SIM or Server.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Farmer App Link in SMS' to view available options.",
+              "description": [
+                "On: A download link for the MD Customer App will be included in every SMS sent to farmers.",
+                "Off: Regular SMS will be sent without including the download link for the app."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": [
+                "Tap the Save button located at the bottom-right corner to apply your selection.",
+                "Note: Setting this option to On helps encourage farmers to download the MD Customer App, enabling you to send free in-app notifications.",
+                "If you prefer to continue with traditional SMS only, select Off.",
+                "For cost-effective communication, it is recommended to keep this setting On and choose Customer App as your primary SMS Type."
+              ],
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Total Collection in SMS",
+      "sections": [
+        {
+          "title": "How to Set Up or Update 'Total Collection in SMS' Setting for a Dairy Center",
+          "description": "The Total Collection in SMS setting allows you to include the total milk collected (in liters) and the total amount for the current invoice period in the SMS sent to farmers. This gives them a complete summary of their collection performance during the billing cycle.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Total Collection in SMS' to view available options.",
+              "description": [
+                "On: The SMS will include the total milk collection (in liters) and the total payment amount for the invoice period.",
+                "Off: Regular SMS will be sent without including total liters or total amount."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selection.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Center Name in SMS",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Center Name in SMS' Setting for a Dairy Center",
+          "description": "This setting allows you to customize the sender name displayed in SMS messages sent to farmers. Personalizing the sender name helps farmers easily recognize messages from your dairy center. If left blank, the default sender name 'Mobile Dairy' will be used.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the SMS Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Center Name in SMS' to open the text editor.",
+              "description": [
+                "You will see a text box where you can type your desired sender name."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your updated sender name.",
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Note",
+              "description": "The sender name can be up to 15 characters long and should be English language only.\n\nAllowed characters:\n- Uppercase letters (A–Z)\n- Lowercase letters (a–z)\n- Numbers (0–9)\n- Spaces (no special characters or symbols)",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Payment Period in Invoice Settings",
+      "sections": [
+        {
+          "title": "How to Set Up or Update 'Payment Period' Setting for a Dairy Center",
+          "description": "The Payment Period setting allows you to define how often farmers receive their milk payment invoices. You can choose from fixed date ranges or weekly days depending on your collection and payment schedule.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on Payment Period to view available options.",
+              "description": [
+                "You will see the following options and once selected it will be applied to all customers. We cannot select this farmer wise."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Date-based options",
+              "description": [
+                "01–10, 11–20, 21–ME (Month End)",
+                "01–15, 16–ME",
+                "01–ME",
+                "01–05, 06–10, 11–15, 16–20, 21–25, 26–ME",
+                "06–15, 15–25, 26–05"
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Weekday-based options",
+              "description": [
+                "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 9,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your selected payment period.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Payment Register Print Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update 'Payment Register Print Setting' for a Dairy Center",
+          "description": "This setting allows you to customize the layout and content of the printed Payment Register used for milk payment records. You can include or exclude specific columns—like signatures or zero-value payments—and choose from two available print formats to best match your dairy’s reporting style.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Payment Register Print Setting' to view available options.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Available Customization Options",
+              "description": [
+                "Signature Column:",
+                "Turn this ON to include a signature field, so farmers or representatives can sign next to their payment as a confirmation.",
+                " Turn it OFF to exclude the signature field.",
+                "",
+                "Zero Amount Column:",
+                " If ON, all entries including those with ₹0 payments will be printed.",
+                " If OFF, only entries with non-zero payment amounts will be shown.The Column whose all values are zero, won’t be shown",
+                "",
+                "Print Format for Payment Register:",
+                " Choose your preferred layout or format for how the register should appear when printed."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Save the Changes",
+              "description": "Tap the Save button located at the bottom-right corner to apply your updated settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Invoice Print Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Invoice Print Setting' for a Dairy Center",
+          "description": "This setting allows you to fully customize the format, layout, and content of printed invoices generated from your dairy center. You can choose the language, columns, layout style, and other display preferences to suit your printing needs—whether for thermal or laser printers.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Invoice Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Invoice Print Setting' to view available options.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Available Customization Options",
+              "description": [
+                "Language: Choose the language for the printed invoice.",
+                "",
+                "Per Paper Layout:",
+                "  - Horizontal Two Bill",
+                "  - Vertical Two Bills",
+                "  - One Bill",
+                "",
+                "FAT, SNF, CLR Columns: Enable or disable columns for FAT, SNF, and CLR values.",
+                "Feed Details: Turn ON or OFF.",
+                "Average in Invoice: Turn ON or OFF to show average values.",
+                "Plant Name: Turn ON or OFF to show plant name.",
+                "Separate Cow/Buffalo: Turn ON or OFF to display data separately.",
+                "Number in Language: Display numbers in a regional script/language.",
+                "Rate Column: Turn ON or OFF to include rate information.",
+                "Printer Type: Choose either Laser or Thermal.",
+                "",
+                "Print Format:",
+                "  - Format-1",
+                "  - Format-2",
+                "  - Format-3",
+                "",
+                "Preview: View a sample print layout before finalizing."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 8,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Rate Chart Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Rate Chart' Setting for a Dairy Center",
+          "description": "This setting allows you to choose whether to enable or disable the use of a rate chart for milk collection.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Rate Chart Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Rate Chart' to view available options:",
+              "description": [
+                "On – Enables the use of the rate chart.",
+                "Off – Disables the rate chart temporarily.",
+                "",
+                "Note: Set it to Off if you want to temporarily stop applying the rate chart."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Shift Wise Rate Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Shift Wise Rate' Setting for a Dairy Center",
+          "description": "This setting allows you to apply incentives or penalties based on the milk collection shift—morning or evening. You can add or subtract a fixed rate for each shift, enabling you to reward consistency or adjust for operational costs.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Rate Chart Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Shift Wise Rate' to view available options:",
+              "description": [
+                "Shift Rate Adjustments:",
+                "",
+                "Morning Shift Adjustment:",
+                "Enter the bonus or penalty (e.g., +0.5 for bonus or -0.3 for deduction).",
+                "",
+                "Evening Shift Adjustment:",
+                "Enter the bonus or penalty (e.g., +0.2 or -0.1).",
+                "",
+                "Apply Conditional Bonus for Evening Shift:",
+                "[✓]Tick this option if the evening bonus should only apply when milk is also collected in the morning from the same farmer on the same day.",
+                "",
+                "Note: The values entered will be added to or subtracted from the existing rate based on the shift and your configuration."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },{
+      "title": "Rate Chart Configuration",
+      "description": "In the Mobile Dairy application, you can add or modify the rate chart as per your requirements. You can configure separate rate charts for cow and buffalo milk based on specific FAT, SNF values, and starting amounts. The app supports multiple rate chart formats such as Excel, Rate per kg, Increase per FAT/SNF points, Fixed Rate, and Total Solids.",
+      "sections": [
+        {
+          "title": "EXCEL Rate Chart",
+          "description": "By updating the Excel rate chart, you can import a preconfigured rate chart into the Mobile Dairy app. Based on the imported Excel sheet, the app will automatically apply the corresponding rate chart settings.you can watch the below given video to understand  how can you do this",
+          "steps": [
+                        {
+              "step": 1,
+              "title": "Prepare Your Excel Rate Chart",
+              "description":"Ensure your Excel sheet is correctly formatted for import. The Mobile Dairy app will use the data in the sheet to configure the rate chart.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+                                    {
+              "step": 3,
+              "title": "Tap on Rate Chart Section",
+              "description":"Ensure your Excel sheet is correctly formatted for import. The Mobile Dairy app will use the data in the sheet to configure the rate chart.INSTRUCT TO WATCH VIDEO for further steps on Mobile Dairy's YouTube Channel",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": "https://www.youtube.com/shorts/sS_IMKcv6kA"
+      }
+    },{
+      "title": "Rate Chart Per KG",
+      "description": "In the Mobile Dairy application, you can configure a rate chart based on the weight of milk in kilograms. Instead of using liters, this method calculates payment based on the actual weight, allowing more precise billing especially when FAT and SNF values vary. This is commonly used when milk density plays a critical role.",
+      "sections": [
+        {
+          "title": "Rate Per KG Configuration",
+          "description": "In the Per KG rate chart format, milk rates are calculated based on the weight (in KG) rather than volume (in liters). You need to define the rate per KG which will be used during milk collection.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap on the Rate Chart section from the main menu.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select 'Rate Per KG' as the rate chart format.",
+              "description": "You will be prompted to enter the rate per kilogram of milk. This rate will be used to calculate the amount during milk collection.Refer to the video for the exact steps on Mobile Dairy's YouTube Channel.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Save your settings.",
+              "description": "Once you've entered the desired rate per KG, tap on Save to apply the settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": "https://www.youtube.com/shorts/sS_IMKcv6kA"
+      }
+    },{
+      "title": "Increase Per FAT/SNF Points",
+      "description": "In the Mobile Dairy application, this rate chart format allows you to manually define how much the price should increase for every step of FAT and SNF. It offers flexible control over pricing based on milk quality parameters. This method is ideal when you want precise incremental adjustments for higher FAT/SNF values.",
+      "sections": [
+        {
+          "title": "How to Configure Increase Per FAT/SNF Rate Chart",
+          "description": "This method lets you define the price increase step-by-step for FAT and SNF values. You can set how much the rate will increase per FAT point or SNF point.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Rate Chart section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select 'Increase Per FAT/SNF Points' format.",
+              "description": "You will be able to enter base rate, and define the amount to be added per FAT and per SNF point.Please follow the video instructions for correct configuration on Mobile Dairy's YouTube Channel.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Save your configuration.",
+              "description": "After filling in the values, tap Save to apply your rate chart settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": "https://www.youtube.com/shorts/u6V73LzVo7w"
+      }
+    },{
+      "title": "Fixed Rate, Rate Chart",
+      "description": "In the Mobile Dairy application, the Fixed Rate chart format allows you to set a constant rate for milk, regardless of its FAT or SNF values. This is useful when you want to pay the same amount for every liter or kilogram of milk, making the process simple and consistent.",
+      "sections": [
+        {
+          "title": "How to Set a Fixed Rate for Milk Collection",
+          "description": "This configuration ignores milk quality parameters such as FAT and SNF, and instead applies a flat rate to all milk entries.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Launch the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Rate Chart section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Select 'Fixed Rate' as your format.",
+              "description": "You’ll be prompted to enter a fixed rate per liter. This rate will be applied to all milk collections, regardless of quality.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap Save to confirm your settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Total Solids Rate Chart",
+      "description": "In the Mobile Dairy application, the Total Solids rate chart format calculates milk payment based on the combined value of FAT and SNF content. This method provides a more accurate pricing model as it reflects the total nutritional solids present in the milk.",
+      "sections": [
+        {
+          "title": "How to Configure Total Solids Based Rate Chart",
+          "description": "This setup calculates the milk rate by adding the FAT and SNF values together (Total Solids = FAT + SNF) and then applying the configured rate.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Rate Chart section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Choose 'Total Solids' as the rate chart format.",
+              "description": "Here, you will be asked to enter a rate that will be applied to the sum of FAT and SNF content in the milk.Watch the video below to understand the exact configuration process on Mobile Dairy's YouTube Channel.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap Save to apply the rate chart.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": "https://youtube.com/shorts/HFHl-7AZRvY"
+      }
+    },
+    {
+      "title": "Milk Sale Billing Period Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Billing Period' Setting for a Dairy Center",
+          "description": "This setting allows you to define the billing cycle for milk sale invoices. It helps your dairy center manage how frequently farmers are billed for their milk purchases—whether weekly, bi-monthly, or monthly—based on your operational preference. Choosing the right billing period helps streamline accounting and cash flow management.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to find the Milk Sale Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Billing Period' to view available options:",
+              "description": [
+                "Available Billing Cycles:",
+                "",
+                "Date-based Billing Periods:",
+                "  - 01–10, 11–20, 21–ME (Month End)",
+                "  - 01–15, 16–ME",
+                "  - 01–ME",
+                "  - 01–05, 06–10, 11–15, 16–20, 21–25, 26–ME",
+                "  - 06–15, 16–25, 26–05",
+                "",
+                "Weekday-based Billing Periods:",
+                "  - Monday",
+                "  - Tuesday",
+                "  - Wednesday",
+                "  - Thursday",
+                "  - Friday",
+                "  - Saturday",
+                "  - Sunday",
+                "",
+                "Note: Choose the billing period format that best suits your dairy center’s operational and accounting needs."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your selected billing period.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Milk Sale Bill Print Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Milk Sale Bill Print Setting' for a Dairy Center",
+          "description": "This setting lets you customize the appearance and layout of milk sale invoices printed by your dairy center. You can select the language for printing, decide how numbers appear, choose the printer type, pick from different print formats, and add any special notes you want printed on the bill. These options help ensure the invoices match your center’s branding and communication preferences, making them clearer and more professional for your customers.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Milk Sale Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Milk Sale Bill Print Setting' to see the available options:",
+              "description": [
+                "Print Language: Choose the preferred language in which the invoice will be printed.",
+                "",
+                "Number in Language:",
+                "  - On: Numbers on the invoice will be printed in the script of the selected language.",
+                "  - Off: Numbers will be printed in the standard English numeral format.",
+                "",
+                "Printer Type: Select the type of printer used for printing bills:",
+                "  - Laser",
+                "  - Thermal",
+                "",
+                "Print Format: Choose between different bill formats to suit your preferences:",
+                "  - Format-1",
+                "  - Format-2",
+                "",
+                "Note: Add any custom text or messages you want to appear on every bill."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your settings.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Show Advance/Loan Interest Rate in Farmer/Customer App",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Show Advance/Loan Interest Rate in Farmer App' Setting",
+          "description": "This setting allows you to control whether farmers can view the interest rate on any advance or loan they have taken, directly within the Customer (Farmer) App. Enabling this option promotes transparency by letting farmers see the exact interest rates applied to their advances or loans. Disabling it will keep this information hidden from the app, which might be preferred for privacy or simplicity.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Show Advance/Loan Interest Rate in Farmer App' to view the available options:",
+              "description": [
+                "On: Interest rate details for farmer advances or loans will be visible in the Farmer App.",
+                "Off: Interest rate details will be hidden from the Farmer App."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Show Rate Chart in Farmer/Customer App",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Show Rate Chart' Setting",
+          "description": "This setting allows you to control whether the rate chart used for calculating each farmer’s milk collection is visible in the Customer (Farmer) App. Enabling this option helps farmers see the applicable rates clearly, fostering transparency in billing. If turned off, the rate chart will be hidden from the Customer App, which might be preferred for internal control or simplicity.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Show Rate Chart' to view and select from the available options:",
+              "description": [
+                "On: The rate chart will be visible to farmers in the Customer/Farmer App.",
+                "Off: The rate chart will be hidden from the Customer/Farmer App."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Show Collection After Invoice Save in Farmer/Customer App",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Show Collection After Invoice Save' Setting",
+          "description": "This setting determines when the milk collection details become visible in the Customer (Farmer) App. If the setting is turned ON, farmers will only be able to see their milk collection data after the invoice has been saved. This ensures that only finalized and confirmed records are displayed. On the other hand, if the setting is turned OFF, the collection details will be shown immediately after entry, allowing farmers to view their data in real-time without waiting for invoice generation.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Show Collection After Invoice Save'.",
+              "description": [
+                "On: Collection will appear only after invoice is saved.",
+                "Off: Collection will be visible immediately after collection is done."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the setting.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Show Collection After Shift Finish in Farmer/Customer App",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Show Collection After Shift Finish' Setting",
+          "description": "This setting allows you to control when farmers can view their milk collection data in the Customer App. If it is turned ON, the collection will become visible only after the respective shift (such as morning or evening) is completed. If it is turned OFF, the collection will be visible immediately after it is saved in the app.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Show Collection After Shift Finish'.",
+              "description": [
+                "On: Collection appears in the Customer App after the shift ends.",
+                "Off: Collection appears immediately after it's saved."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Hide Collection Rate in Farmer/Customer App",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Hide Collection Rate' Setting",
+          "description": "This setting allows you to control whether the milk collection rate is visible in the Customer App. When turned ON, the collection rate will be hidden and not visible to farmers. If turned OFF, the collection rate will be displayed to farmers for their milk collections.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Customer App Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Hide Collection Rate'.",
+              "description": [
+                "On: Farmers cannot see the collection rate.",
+                "Off: Farmers can see the collection rate."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Bank Details Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Bank Details' Setting for a Dairy Center",
+          "description": "This setting allows you to control whether the bank details of farmers or customers are visible in the Farmers section of the Mobile Dairy app. When enabled, you will be able to view the bank information for each farmer, which can be helpful for managing payments or verifying account details. If this setting is turned off, the bank details will be hidden, ensuring privacy when you do not want this information to be displayed.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Bank Details' to view the available options:",
+              "description": [
+                "On: Bank details of farmers will be visible in the app.",
+                "Off: Bank details of farmers will be hidden."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Weighing Scale Format Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Weighing Scale Format' Setting for a Dairy Center",
+          "description": "This setting allows you to select the format in which weight measurements from the weighing scale are displayed in the Mobile Dairy app. Depending on the type of weighing scale you use, you can choose to display weights with zero decimal digits (rounded to whole numbers), one decimal digit, or two decimal digits for more precise readings. This setting is only applicable when you are using Auto or Online input directly from the weighing scale to capture the weight data.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Weighing Scale Format' to view the available options:",
+              "description": [
+                "As per Weighing Scale: Use the format provided by the connected scale.",
+                "Zero digit (00): Display weights rounded to whole numbers without decimals.",
+                "One digit (00.0): Display weights with one decimal place.",
+                "Two digit (00.00): Display weights with two decimal places for greater precision.",
+                "Note: This option only applies when Auto/Online input from the weighing scale is enabled."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "FAT Format Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'FAT Format' Setting for a Dairy Center",
+          "description": "This setting lets you decide how the FAT (milk fat percentage) values are displayed in the Mobile Dairy app. You can choose whether the FAT values should be rounded up, rounded down, or rounded normally (standard rounding). This option is relevant only when you use Auto or Online input from a Milk Analyzer device, which measures the FAT content of the milk. Proper rounding helps in accurate billing and reporting according to your center’s preference.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'FAT Format' to view available options:",
+              "description": [
+                "Round: Values are rounded to the nearest digit (e.g., 6.11 → 6.1, 6.15 → 6.2, 6.95 → 7).",
+                "Round Up: Values are always rounded up (e.g., 4.61 → 4.7, 4.95 → 5).",
+                "Round Down: Values are always rounded down (e.g., 5.11 → 5.1, 5.55 → 5.5).",
+                "Round Half Down: Values close to halfway are rounded down (e.g., 4.15 → 4.1, 4.95 → 4.9, but 4.99 → 5)."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "SNF Format Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'SNF Format' Setting for a Dairy Center",
+          "description": "This setting allows you to control how the SNF (Solids-Not-Fat) values are displayed in the Mobile Dairy app. You can choose whether the SNF values should be rounded normally, rounded up, rounded down, or rounded half down. This is applicable only when you use Auto or Online input from a Milk Analyzer device that measures the SNF content. Selecting the proper rounding method ensures accurate billing and reporting according to your dairy center’s preferences.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'SNF Format' to view available options and select your preferred rounding method.",
+              "description": [
+                "Round: Standard rounding where values are rounded to the nearest digit (e.g., 6.11 → 6.1, 6.15 → 6.2, 6.95 → 7).",
+                "Round Up: Values are always rounded up (e.g., 4.61 → 4.7, 4.95 → 5).",
+                "Round Down: Values are always rounded down (e.g., 5.11 → 5.1, 5.55 → 5.5).",
+                "Round Half Down: Values close to halfway are rounded down (e.g., 4.15 → 4.1, 4.95 → 4.9, but 4.99 → 5)."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "CLR/Lacto Format Setting",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'CLR/Lacto Format' Setting for a Dairy Center",
+          "description": "This setting allows you to configure how the CLR (Corrected Lactometer Reading) or Lactometer values are displayed in the Mobile Dairy app. You can select the rounding or precision format for these values, which is important for maintaining consistent and accurate milk quality records. This option is applicable only if your dairy center uses Auto or Online input from a Milk Analyzer device that measures CLR/Lacto values.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'CLR/Lacto Format' to view the available options.",
+              "description": [
+                "As per analyser – Displays the CLR/Lacto values exactly as measured by the analyzer device.",
+                "One digit (00) – Rounds the CLR/Lacto values to one decimal place.",
+                "Step (00.5) – Rounds the CLR/Lacto values to the nearest 0.5 step for simplified reporting.",
+                "Note: This setting applies only when Auto or Online input from a Milk Analyzer is in use."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Contact Details",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Contact Details' Setting for a Dairy Center",
+          "description": "This setting allows you to control what contact information is displayed for your dairy center in the Mobile Dairy app. You can specify a contact name and phone number that will be shown within the app and printed on the invoice. If you leave these fields blank, the app will automatically use the center owner’s name and mobile number as the default contact information. This helps ensure that customers always have a reliable point of contact related to the dairy center.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Contact Details' to edit the contact information.",
+              "description": [
+                "Name: Enter the contact person’s name here. This field must not be left empty.",
+                "Phone Number: Enter the contact mobile number here. This field must also not be empty.",
+                "These details will be displayed in the app and printed on all invoice receipts. If these fields are left empty, the system will use the center owner’s name and mobile number by default."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply your changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Computer Login",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Computer Login' Setting for a Dairy Center",
+          "description": "This setting allows you to enable or disable the ability to log in to the Mobile Dairy system from a computer. When enabled (On), authorized users can access the dairy center’s management features using a computer, providing flexibility beyond the mobile app. If disabled (Off), login via computer will be restricted, enhancing security by limiting access to only mobile devices.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Computer Login' to view and select the available options:",
+              "description": [
+                "On: Enables login to the system from a computer.",
+                "Off: Disables computer login access."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Center Logo",
+      "sections": [
+        {
+          "title": "How to Set Up or Update the 'Center Logo' Setting for a Dairy Center",
+          "description": "This setting allows you to upload or update the logo of your dairy center within the Mobile Dairy app. The selected logo will be prominently displayed on all printed bills and invoices, helping to brand your center’s documents professionally. Adding a logo gives your billing documents a customized and official appearance, enhancing recognition and trust among your customers.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Settings icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Go to Center Information.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the dairy center you want to configure.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Scroll down to the Other Settings section.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Tap on 'Center Logo' to upload or change the logo image.",
+              "description": [
+                "Select the desired image file representing your center’s logo.",
+                "This logo will appear on all bill prints and invoices generated by the app."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Customer Khata In Milk Sale",
+      "sections": [
+        {
+          "title": "How to Add New Entries or Update Entries in Customer Khata",
+          "description": "Customer Khata works like a digital passbook in the Mobile Dairy app. It records all milk sale transactions for each customer, including received payments and pending dues. This helps dairy centers keep track of financial dealings with individual customers in an organized way.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Tap the Milk Sale Section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Customer Khata.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Choose Receive OR Pay as required.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Search or manually type the customer code in the search bar for the targeted customer.",
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Choose the appropriate Date, enter the amount received/payable, and write additional comments if any.",
+              "imageURL": ""
+            },
+            {
+              "step": 7,
+              "title": "Save the Changes",
+              "description": "Tap the Save button at the bottom-right corner to apply the changes.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Milk Sale Customers",
+      "description": "This feature allows dairy centers to register individual customers who regularly buy milk. Each customer is assigned a unique code and linked to a specific milk type and rate, making the sale process faster and more organized",
+      "sections": [
+        {
+          "title": "How to Add or Update Milk Sale Customers in the Mobile Dairy App",
+          "description": "This feature allows you to manage milk sale customers by adding new ones or updating the profile of existing customers. Accurate customer data helps streamline milk sales, billing, and payment records.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on Milk Sale Customers.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Tap the plus (+) icon to add a new customer or select an existing customer and tap the pen icon to update their profile.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Fill in all the required information:",
+              "description": [
+                "Enter a customer code (maximum 5-digit number).",
+                "Select the milk type (Cow or Buffalo).",
+                "Choose the appropriate cow/buffalo milk rate.",
+                "You can choose to turn ON or OFF the status of the customer."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 6,
+              "title": "Save the Customer",
+              "description": "Once all details are filled, tap Save to add or update the customer.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Add Milk Sale",
+      "description": "This feature helps dairy centers to log daily or shift-wise milk sales for each customer, including quantity, rate, and payment details.",
+      "sections": [
+        {
+          "title": "How to Add Milk Sale in the Mobile Dairy App",
+          "description": "This feature allows you to record milk sales for each customer by entering the transaction details such as quantity, rate, and payment. Accurate milk sale entries ensure proper billing and account tracking.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Navigate to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Click on Add Milk Sale or tap the plus (+) icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Fill in all the required information:",
+              "description": [
+                "Enter a customer code or search customers using the search icon.",
+                "Select the date, milk type (Cow or Buffalo), and shift (Morning or Evening).",
+                "Enter the litre, rate, amount, paid amount, and balance amount."
+              ],
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Save the Entry",
+              "description": "Once all details are filled, tap Save to add the milk sale entry.",
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    },
+    {
+      "title": "Generate a Bill in Milk Sale",
+      "description":"This option allows dairy centers to generate professional bills for customers with detailed sale records. Bills can be printed, saved as PDFs, or shared digitally.",
+      "sections": [
+        {
+          "title": "How to Generate a Bill in Milk Sale (Mobile Dairy App)",
+          "description": "This feature allows you to generate and share invoices for milk sales associated with individual customers. Bills can be printed, saved as PDFs, or shared via messaging platforms like WhatsApp, helping streamline payment and record-keeping.",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Open the Mobile Dairy app on your device.",
+              "imageURL": ""
+            },
+            {
+              "step": 2,
+              "title": "Go to the Milk Sale section.",
+              "imageURL": ""
+            },
+            {
+              "step": 3,
+              "title": "Tap on the Bill icon.",
+              "imageURL": ""
+            },
+            {
+              "step": 4,
+              "title": "Select the customer for whom you want to generate the bill.",
+              "imageURL": ""
+            },
+            {
+              "step": 5,
+              "title": "Review Milk Sale Records and Generate Invoice",
+              "description": [
+                "You will see a list of all recorded milk sale transactions for the selected customer.",
+                "Tap the Print icon to generate the invoice.",
+                "You can choose to save the bill as a PDF or share it via WhatsApp or other sharing platforms."
+              ],
+              "imageURL": ""
+            }
+          ]
+        }
+      ],
+      "resources": {
+        "youtube_link": ""
+      }
+    }
+  ]
+}

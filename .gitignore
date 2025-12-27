@@ -1,0 +1,9 @@
+.idea
+.vscode 
+venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+mdchatbot/db.sqlite3
+mdchatbot/db.sqlite3
